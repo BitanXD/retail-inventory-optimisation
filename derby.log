@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sat Jul 19 12:06:54 IST 2025:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0198-2166-6089-00001248e970 
-on database directory /home/user/Documents/retail inventory optimisation/metastore_db with class loader sun.misc.Launcher$AppClassLoader@7506e922 
+Mon Jul 21 12:46:36 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0198-2bd7-7111-00000e1e92b8 
+on database directory /home/user/Documents/retail-inventory/retail-inventory-optimisation/metastore_db with class loader sun.misc.Launcher$AppClassLoader@a09ee92 
 Loaded from file:/home/user/.local/lib/python3.10/site-packages/pyspark/jars/derby-10.14.2.0.jar
 java.vendor=Private Build
 java.runtime.version=1.8.0_452-8u452-ga~us1-0ubuntu1~22.04-b09
-user.dir=/home/user/Documents/retail inventory optimisation
+user.dir=/home/user/Documents/retail-inventory/retail-inventory-optimisation
 os.name=Linux
 os.arch=amd64
 os.version=6.8.0-60-generic
