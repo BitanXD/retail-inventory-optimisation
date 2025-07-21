@@ -1,511 +1,511 @@
 item_id,item_name,category,supplier,price_usd,weight_kg,color,warranty_years,release_year,rating
-1000.0,Those,Home & Kitchen,"Ross, Reed and Harris",88.92,7.655,Green,3.0,2021.0,4.0
-1001.0,Those,Electronics,Garcia PLC,191.46,7.947,Green,3.0,2009.0,4.8
-1002.0,Throughout,Home & Kitchen,"Sullivan, Walsh and Higgins",139.98,3.136,Green,,,4.9
-1003.0,,Books,"Mcdonald, Casey and Martinez",308.36,0.021,Yellow,3.0,2010.0,
-1004.0,Your,Electronics,Cole-Martin,667.41,7.243,Green,2.0,2009.0,
-1005.0,Full,Electronics,Jones PLC,884.51,1.589,Green,1.0,2022.0,3.8
-1006.0,Bad,Toys,Hansen-Howell,784.05,8.849,Blue,0.0,2002.0,3.5
-1007.0,Drive,Home & Kitchen,Martin-Brown,277.21,7.685,Yellow,5.0,2014.0,3.9
-1008.0,Anything,Clothing,"Pittman, Camacho and Miller",926.32,2.57,White,1.0,2004.0,3.6
-1009.0,Woman,Electronics,Harris-Wallace,466.93,8.574,Yellow,,2010.0,4.5
-1010.0,,Stationery,Bernard Group,886.25,9.165,White,,2012.0,1.8
-1011.0,North,Books,Baker Ltd,855.07,0.179,White,0.0,2001.0,4.6
-1012.0,Grow,Clothing,Ruiz and Sons,26.12,5.085,Green,5.0,2021.0,1.6
-1013.0,State,Toys,"Huff, Richardson and Williamson",984.9,8.02,Blue,0.0,,1.5
-1014.0,Many,Toys,"Mitchell, White and Johns",,4.182,Green,5.0,2014.0,
-1015.0,Anything,Stationery,Kline LLC,328.48,0.29,,2.0,2013.0,
-1016.0,Out,Clothing,Hernandez Ltd,176.07,5.199,Blue,5.0,2000.0,2.1
-1017.0,Risk,Home & Kitchen,Hernandez Ltd,569.58,0.675,Black,2.0,2023.0,3.1
-1018.0,,Stationery,"Russell, Schneider and Smith",358.98,7.358,Green,1.0,2013.0,1.2
-1019.0,Word,Electronics,Young Inc,898.99,3.854,Yellow,,2016.0,3.2
-1020.0,Focus,Clothing,Ruiz and Sons,905.67,6.593,Blue,0.0,2001.0,4.5
-1021.0,Agreement,Toys,Wade-Roberts,587.28,2.456,Red,0.0,2021.0,4.0
-1022.0,Involve,Clothing,Hoffman Ltd,928.02,8.25,Black,3.0,2022.0,2.4
-1023.0,Safe,Stationery,"Huff, Richardson and Williamson",710.59,9.461,Green,3.0,,3.1
-1024.0,Happy,Stationery,"Shaw, Williams and Richardson",450.4,6.105,Blue,1.0,2010.0,4.9
-1025.0,Whom,,Martin-Brown,570.55,6.866,White,,2023.0,1.8
-1026.0,Share,Toys,"Jackson, Murphy and Mcconnell",888.1,8.438,Black,3.0,2001.0,2.1
-1027.0,Serve,Clothing,,513.94,6.429,Black,0.0,2019.0,1.1
-1028.0,,Electronics,"Harris, Powell and Barnett",277.71,9.073,Red,5.0,2011.0,4.7
-1029.0,Lot,Home & Kitchen,Tran Inc,162.36,7.803,Blue,0.0,2002.0,1.4
-1030.0,Available,Books,Hobbs LLC,149.18,4.099,Green,1.0,2009.0,4.3
-1031.0,Little,Toys,"Pittman, Camacho and Miller",306.5,6.726,Blue,2.0,2017.0,3.8
-1032.0,Purpose,Books,Bailey PLC,758.2,7.634,Green,0.0,2004.0,2.4
-1033.0,Reality,Home & Kitchen,Garcia PLC,283.18,1.711,Blue,0.0,2002.0,3.2
-,List,Toys,Howell LLC,229.8,3.748,Green,0.0,2020.0,
-1035.0,Their,,"Mcdonald, Casey and Martinez",71.47,4.453,Blue,2.0,2014.0,3.9
-1036.0,Grow,Stationery,Daniels LLC,128.46,3.163,White,5.0,2014.0,1.7
-1037.0,Seem,Electronics,"Lee, Kemp and White",191.81,9.242,White,2.0,2021.0,1.6
-1038.0,Sign,Books,Bradley and Sons,402.34,8.596,Blue,0.0,2015.0,1.8
-1039.0,,Toys,Young Inc,38.97,5.107,Blue,2.0,2015.0,5.0
-1040.0,First,Books,Tran Inc,118.0,4.014,Green,3.0,2006.0,1.9
-1041.0,Team,Books,Baker Ltd,510.21,8.373,Black,1.0,2006.0,
-1042.0,But,Electronics,Harvey-Shields,982.49,7.935,Red,3.0,2007.0,4.4
-1043.0,Class,Home & Kitchen,"Sullivan, Walsh and Higgins",391.71,2.364,Black,5.0,2020.0,1.2
-1044.0,Too,Stationery,Page Inc,73.05,1.997,Black,1.0,2022.0,3.5
-1045.0,Certain,Books,Howell LLC,25.97,3.591,Yellow,1.0,2008.0,3.9
-1046.0,Save,Toys,Gaines LLC,25.74,0.039,Black,2.0,2005.0,2.8
-1047.0,Gun,Books,Howell LLC,770.19,1.162,Red,5.0,2006.0,3.5
-1048.0,Others,Stationery,Hoffman Ltd,160.29,5.454,Black,2.0,2019.0,
-1049.0,Against,Electronics,Navarro-Sanchez,655.71,7.058,White,2.0,2016.0,2.2
-1050.0,Who,Stationery,Daniels LLC,806.9,5.427,Red,3.0,2004.0,4.4
-1051.0,Thank,Home & Kitchen,Robertson and Sons,,3.14,Black,3.0,2019.0,4.8
-1052.0,Inside,Electronics,Ruiz and Sons,24.44,6.165,White,3.0,2020.0,1.3
-1053.0,Look,Clothing,"Harris, Powell and Barnett",487.71,0.521,Black,,2002.0,2.8
-1054.0,Table,,"Russell, Schneider and Smith",740.02,8.036,Green,5.0,2002.0,3.1
-1055.0,Here,Home & Kitchen,Tran Inc,489.41,8.837,Black,0.0,2015.0,4.9
-1056.0,Too,Electronics,Parsons and Sons,707.17,3.093,Yellow,2.0,2018.0,1.3
-1057.0,Authority,Home & Kitchen,Tran Inc,109.04,7.234,Green,2.0,2021.0,4.4
-1058.0,Give,Clothing,Anderson Group,545.12,6.421,Red,3.0,2002.0,4.8
-1059.0,Determine,Toys,,287.61,9.99,,2.0,2014.0,3.7
-1060.0,Social,Home & Kitchen,,389.5,1.389,White,1.0,2019.0,
-1061.0,Clearly,Clothing,Baker Ltd,968.07,9.589,Yellow,2.0,2001.0,4.8
-1062.0,,Stationery,"Lee, Kemp and White",988.45,1.543,Green,5.0,2023.0,2.9
-1063.0,Product,Books,Page Inc,646.82,0.98,Black,0.0,2001.0,2.0
-1064.0,,Clothing,Garcia PLC,423.58,1.475,Green,0.0,2004.0,3.7
-1065.0,What,Books,"Shaw, Williams and Richardson",860.8,7.495,Blue,,2005.0,2.3
-1066.0,Back,Clothing,Holland-Wagner,644.9,7.175,Yellow,0.0,2002.0,2.0
-1067.0,Plant,Clothing,"Warner, Smith and Reyes",269.76,,Blue,3.0,2019.0,4.4
-1068.0,Ball,Toys,"Alvarez, Lindsey and Winters",934.31,1.557,Red,3.0,2000.0,1.5
-1069.0,Future,Books,Harvey-Shields,148.18,7.143,Blue,1.0,,2.2
-1070.0,Leave,Toys,Kline LLC,575.71,7.532,White,1.0,2014.0,1.0
-1071.0,Lot,Stationery,Hernandez Ltd,37.03,5.007,Black,0.0,2008.0,2.9
-1072.0,Mr,Stationery,Daniels LLC,924.29,1.156,White,5.0,2018.0,
-1073.0,Against,Books,Harvey-Shields,678.68,1.833,Red,3.0,2017.0,4.4
-1074.0,Finish,Electronics,"Sullivan, Walsh and Higgins",904.94,6.598,,2.0,2022.0,2.6
-1075.0,Make,Toys,Navarro-Sanchez,434.32,6.113,Black,1.0,2010.0,1.0
-1076.0,Operation,Electronics,Jones PLC,535.06,5.234,Black,0.0,2011.0,5.0
-1077.0,Year,Home & Kitchen,Harvey-Shields,694.5,5.187,Black,3.0,2011.0,2.7
-1078.0,Per,Home & Kitchen,"Weiss, Donaldson and Raymond",363.21,6.513,Red,2.0,2014.0,3.5
-1079.0,Push,Electronics,Watson-Rasmussen,570.23,3.528,Yellow,0.0,2021.0,1.9
-,Second,Stationery,"Russell, Schneider and Smith",810.98,2.955,White,3.0,2005.0,4.1
-1081.0,Home,Clothing,"Pittman, Camacho and Miller",645.89,3.317,,0.0,,2.2
-1082.0,Appear,Stationery,"Alvarez, Lindsey and Winters",204.91,6.738,Red,1.0,2012.0,2.2
-,Fill,,"Russell, Schneider and Smith",33.6,5.647,Blue,1.0,2008.0,2.5
-1084.0,Assume,Clothing,"Alvarez, Lindsey and Winters",378.51,8.44,Green,2.0,2013.0,3.1
-1085.0,Class,Stationery,Hernandez Ltd,716.59,3.17,Blue,2.0,2007.0,2.8
-1086.0,From,Toys,Jones PLC,22.91,8.517,Green,0.0,2012.0,4.3
-1087.0,Fire,Stationery,Kline LLC,419.63,0.113,Blue,2.0,2014.0,2.6
-1088.0,Community,Stationery,"Huff, Richardson and Williamson",816.33,2.045,White,1.0,2005.0,4.6
-1089.0,Fast,Books,"Pittman, Camacho and Miller",323.15,5.566,Red,0.0,2022.0,3.6
-1090.0,Federal,Home & Kitchen,Martin-Brown,573.96,9.401,Red,2.0,2022.0,4.9
-1091.0,Practice,Electronics,"Shaw, Williams and Richardson",844.15,3.757,Red,2.0,2016.0,1.9
-1092.0,Happy,Home & Kitchen,"Ross, Reed and Harris",998.07,4.642,Black,2.0,2015.0,2.7
-1093.0,Someone,Clothing,"Russell, Schneider and Smith",378.62,4.672,Red,3.0,2005.0,3.5
-1094.0,I,Books,"Peters, Wong and Sanchez",399.74,5.397,Yellow,,2013.0,
-1095.0,Age,Books,"Ross, Reed and Harris",76.09,8.63,Red,3.0,2014.0,1.6
-1096.0,Place,Clothing,Bailey PLC,862.14,1.982,White,5.0,2014.0,1.5
-1097.0,Left,Electronics,Hernandez Ltd,809.19,7.483,Yellow,1.0,2011.0,3.2
-1098.0,With,Books,Parsons and Sons,640.58,3.512,Blue,3.0,2021.0,
-1099.0,Painting,Books,Hansen-Howell,233.2,8.04,White,1.0,2023.0,2.4
-1100.0,Art,Toys,Barnett Ltd,247.56,0.415,Blue,1.0,2010.0,3.9
-1101.0,Lot,Toys,"Harris, Powell and Barnett",401.59,8.975,Green,5.0,2006.0,4.8
-1102.0,Result,Books,"Ross, Reed and Harris",851.32,1.476,Green,0.0,2007.0,3.7
-1103.0,Significant,Clothing,Terry Inc,488.16,6.584,White,1.0,2010.0,3.6
-1104.0,Occur,Electronics,Garcia PLC,510.07,,Blue,1.0,2008.0,1.7
-1105.0,Television,Clothing,Hoffman Ltd,692.12,4.229,Blue,1.0,2020.0,1.0
-1106.0,Fear,Books,Harris-Wallace,630.22,4.907,White,5.0,2017.0,1.4
-1107.0,White,Electronics,Watson-Rasmussen,972.28,0.267,Yellow,2.0,2008.0,3.8
-1108.0,Almost,Home & Kitchen,Hernandez Ltd,116.66,,Yellow,2.0,2016.0,2.7
-1109.0,Story,Electronics,"Pope, Doyle and Wilkins",881.65,3.101,White,1.0,2012.0,4.8
-1110.0,Language,Clothing,"Ross, Reed and Harris",968.27,5.199,Red,3.0,,1.3
-1111.0,Dog,Stationery,Martin-Brown,570.35,9.14,,1.0,2012.0,2.8
-1112.0,Line,Electronics,"Ross, Reed and Harris",316.05,4.02,Blue,5.0,2022.0,1.6
-1113.0,Record,Stationery,Martinez-Peters,293.13,9.211,Green,2.0,2006.0,3.7
-1114.0,Morning,Electronics,"Mitchell, White and Johns",885.04,3.677,White,0.0,2001.0,2.7
-1115.0,Mention,,"Jackson, Murphy and Mcconnell",449.44,4.458,Green,3.0,2018.0,4.7
-1116.0,Understand,Home & Kitchen,Hobbs LLC,816.41,8.046,White,3.0,2023.0,3.0
-1117.0,Son,Clothing,,952.18,7.45,Yellow,3.0,2002.0,1.3
-1118.0,Toward,Toys,Parsons and Sons,666.13,4.536,Green,0.0,2002.0,3.6
-1119.0,Out,Electronics,,577.85,5.129,White,,2001.0,1.8
-1120.0,Another,Clothing,"Huff, Richardson and Williamson",138.24,7.211,Green,0.0,2008.0,2.5
-1121.0,Entire,Home & Kitchen,"Alvarez, Lindsey and Winters",981.94,7.014,Black,5.0,2007.0,
-1122.0,Hit,Home & Kitchen,Ruiz and Sons,832.18,2.629,Yellow,,2022.0,4.1
-1123.0,Should,Toys,,645.78,0.116,Green,2.0,2001.0,3.8
-1124.0,At,Electronics,Bailey PLC,66.68,5.147,Blue,0.0,2017.0,2.5
-1125.0,Reason,Stationery,"Pittman, Camacho and Miller",247.28,1.983,Yellow,2.0,2002.0,1.1
-1126.0,,Books,Howell LLC,838.62,6.315,White,5.0,2015.0,3.3
-1127.0,Improve,Clothing,Daniels LLC,885.81,8.95,Green,5.0,2001.0,4.6
-,Feel,Toys,"Ross, Reed and Harris",,3.332,Blue,1.0,2009.0,3.6
-1129.0,Drive,Clothing,Harvey-Shields,407.22,6.642,Blue,5.0,2001.0,2.7
-1130.0,Sometimes,Stationery,"Warner, Smith and Reyes",843.65,9.08,,5.0,,4.7
-1131.0,Financial,Clothing,Wade-Roberts,526.81,5.121,Blue,1.0,2009.0,2.9
-1132.0,,Books,"Pope, Doyle and Wilkins",491.73,6.252,Blue,1.0,2008.0,4.6
-1133.0,Away,Books,Bradley and Sons,818.55,1.287,White,2.0,2022.0,3.1
-1134.0,Beyond,Clothing,"Weiss, Donaldson and Raymond",919.07,8.656,Black,3.0,2009.0,4.7
-1135.0,Bring,Toys,Harvey-Shields,352.5,2.777,Green,5.0,2019.0,1.1
-1136.0,Girl,Home & Kitchen,"Jackson, Murphy and Mcconnell",868.92,7.191,Black,3.0,2015.0,2.3
-1137.0,,Clothing,Garcia PLC,517.26,5.829,White,0.0,2011.0,4.9
-1138.0,Various,Toys,"Jackson, Murphy and Mcconnell",400.73,2.729,Black,3.0,2010.0,1.3
-1139.0,Measure,Books,"Sullivan, Walsh and Higgins",346.8,0.186,White,5.0,2005.0,2.1
-1140.0,Past,Electronics,Baker Ltd,315.8,4.106,Black,1.0,2000.0,2.5
-1141.0,Every,Toys,Baker Ltd,747.63,8.562,White,2.0,2006.0,5.0
-1142.0,People,Books,"Pittman, Camacho and Miller",750.54,4.975,Green,5.0,2001.0,3.8
-1143.0,Mr,Home & Kitchen,,913.55,5.093,White,2.0,2013.0,4.3
-1144.0,Message,Electronics,Martin-Brown,291.8,4.434,White,0.0,2003.0,5.0
-1145.0,Think,,Jones PLC,752.1,5.225,Blue,5.0,2007.0,2.3
-1146.0,Event,,"Sullivan, Walsh and Higgins",,4.23,Blue,1.0,2000.0,3.0
-1147.0,Traditional,Home & Kitchen,Howell LLC,,8.302,Green,3.0,2011.0,2.5
-1148.0,Week,Electronics,"Lee, Kemp and White",555.21,9.745,Yellow,3.0,2014.0,1.1
-1149.0,Spring,Toys,"Warner, Smith and Reyes",,9.315,,5.0,2015.0,3.3
-1150.0,Almost,Books,Baker Ltd,441.9,0.672,Green,3.0,2018.0,4.6
-1151.0,Catch,Books,Kline LLC,234.02,0.879,Blue,0.0,2001.0,4.2
-1152.0,International,Books,Hernandez Ltd,390.28,7.6,Red,5.0,2021.0,2.7
-1153.0,Many,Stationery,Navarro-Sanchez,,8.826,Blue,0.0,2019.0,1.1
-1154.0,Pass,Clothing,Daniels LLC,214.46,4.518,,5.0,2009.0,4.8
-1155.0,Young,Books,"Harris, Powell and Barnett",127.69,0.877,Red,3.0,2007.0,4.0
-1156.0,Ask,Home & Kitchen,Navarro-Sanchez,189.27,5.471,Yellow,3.0,2022.0,4.2
-1157.0,Behavior,Clothing,Garcia PLC,956.99,5.569,White,5.0,2009.0,4.3
-1158.0,Nothing,,"Mitchell, White and Johns",890.92,1.11,Blue,2.0,2019.0,3.7
-1159.0,Impact,Books,"Mcdonald, Casey and Martinez",633.29,7.178,White,0.0,,1.7
-1160.0,School,Home & Kitchen,Harvey-Shields,705.71,4.359,Black,5.0,2017.0,2.9
-1161.0,Operation,Electronics,Navarro-Sanchez,655.52,5.005,White,5.0,2001.0,3.1
-1162.0,Idea,Stationery,"Warner, Smith and Reyes",34.63,4.111,Red,2.0,2011.0,4.3
-1163.0,Baby,Clothing,Hansen-Howell,213.13,0.126,Black,1.0,2007.0,1.3
-1164.0,Spring,,Terry Inc,27.92,4.102,Red,3.0,2000.0,2.4
-1165.0,Customer,Clothing,Navarro-Sanchez,87.76,8.465,Red,2.0,2018.0,1.6
-1166.0,Attorney,Home & Kitchen,Navarro-Sanchez,795.7,5.744,Red,3.0,2011.0,4.8
-1167.0,Picture,Clothing,Bernard Group,509.05,4.428,Yellow,0.0,2005.0,2.5
-1168.0,Buy,Electronics,,48.66,9.467,Green,2.0,2023.0,3.5
-1169.0,Rich,Toys,Harvey-Shields,760.97,2.938,Blue,0.0,2008.0,3.3
-1170.0,Machine,Toys,Martinez-Peters,852.09,0.296,Yellow,0.0,2011.0,2.0
-1171.0,Right,Books,Terry Inc,150.44,7.1,Blue,3.0,2007.0,4.2
-1172.0,Expert,Stationery,Gaines LLC,61.12,9.558,Yellow,0.0,,3.7
-1173.0,Painting,Books,Watson-Rasmussen,628.74,1.586,Yellow,1.0,,1.6
-1174.0,Support,Books,"Russell, Schneider and Smith",863.5,5.303,Blue,3.0,2012.0,4.8
-1175.0,Something,Stationery,"Mitchell, White and Johns",566.2,8.1,Green,0.0,2006.0,3.8
-1176.0,Visit,Electronics,Chavez-Collins,25.0,8.924,Yellow,2.0,2022.0,1.2
-1177.0,Particular,Stationery,Bradley and Sons,26.16,9.653,Blue,5.0,2012.0,3.9
-1178.0,Green,Books,Hansen-Howell,493.75,4.945,Black,5.0,2021.0,2.4
-1179.0,Should,Toys,Jones PLC,202.77,6.565,White,1.0,,4.5
-1180.0,Go,Toys,Kline LLC,828.8,0.414,White,3.0,2020.0,4.9
-1181.0,Forget,Toys,"Warner, Smith and Reyes",476.17,5.086,Red,0.0,,2.1
-1182.0,Common,Stationery,"Weiss, Donaldson and Raymond",966.77,1.205,Blue,3.0,2022.0,4.5
-1183.0,Build,Clothing,"Sullivan, Walsh and Higgins",570.01,,Black,5.0,2020.0,1.4
-1184.0,Above,Home & Kitchen,Wade-Roberts,796.48,,Yellow,0.0,2006.0,
-1185.0,Similar,Clothing,"Peters, Wong and Sanchez",981.06,7.884,Green,5.0,2003.0,1.0
-1186.0,Likely,Books,"Warner, Smith and Reyes",613.91,5.359,Yellow,2.0,2022.0,1.1
-1187.0,Happy,Books,Holland-Wagner,889.0,3.209,Black,3.0,2020.0,1.2
-,Senior,Books,"Pittman, Camacho and Miller",759.2,0.033,,1.0,2009.0,1.8
-1189.0,Pick,Stationery,"Sullivan, Walsh and Higgins",884.15,7.406,Blue,3.0,2009.0,1.9
-1190.0,Song,Stationery,"Shaw, Williams and Richardson",781.0,5.268,Red,3.0,,
-1191.0,Wait,Clothing,Baker Ltd,795.99,8.035,Yellow,1.0,2013.0,2.9
-1192.0,One,Electronics,Navarro-Sanchez,671.28,5.705,Blue,0.0,2003.0,1.6
-1193.0,Material,Clothing,Garcia PLC,589.69,9.412,Black,5.0,2015.0,3.9
-1194.0,Many,Electronics,Kline LLC,131.0,6.955,Red,0.0,2011.0,2.3
-1195.0,West,Toys,Hoffman Ltd,505.94,4.152,Black,2.0,2002.0,3.5
-1196.0,Firm,Stationery,Hoffman Ltd,77.63,3.4,Yellow,0.0,2020.0,1.1
-1197.0,Out,Electronics,"Harris, Powell and Barnett",349.91,2.044,Red,5.0,2013.0,2.7
-1198.0,Garden,,,80.22,9.1,Yellow,0.0,2014.0,2.8
-1199.0,Up,Books,"Peters, Wong and Sanchez",281.36,9.471,Green,1.0,2018.0,2.0
-,,Clothing,Howell LLC,83.45,7.563,,2.0,2013.0,3.0
-1201.0,Travel,Toys,Terry Inc,416.46,0.269,Green,5.0,2017.0,3.1
-1202.0,Night,Home & Kitchen,Martin-Brown,17.21,7.227,Yellow,5.0,2016.0,3.5
-1203.0,Nice,Electronics,Barnett Ltd,256.61,4.955,Blue,2.0,2016.0,3.6
-1204.0,Call,Stationery,"Huff, Richardson and Williamson",497.28,3.383,Red,1.0,2008.0,3.1
-1205.0,Send,Toys,,868.72,1.438,Red,1.0,2016.0,2.6
-1206.0,Card,Electronics,Bernard Group,8.02,4.907,Red,1.0,2017.0,4.7
-,Eat,Books,"Shaw, Williams and Richardson",224.53,4.199,Black,,2006.0,1.4
-,Step,Electronics,Gaines LLC,461.65,6.218,Black,1.0,,2.3
-1209.0,Follow,Stationery,"Pope, Doyle and Wilkins",167.15,3.476,Yellow,2.0,2005.0,4.9
-1210.0,Man,Clothing,"Ross, Reed and Harris",34.79,2.68,White,1.0,2007.0,1.5
-1211.0,Loss,Electronics,Bailey PLC,979.67,3.974,Red,0.0,2021.0,1.8
-1212.0,Small,Home & Kitchen,Bernard Group,34.89,8.127,Green,,2001.0,1.4
-1213.0,Chance,Home & Kitchen,Ruiz and Sons,679.85,1.699,White,3.0,2005.0,3.0
-1214.0,Term,Books,Terry Inc,661.7,3.672,Yellow,1.0,2003.0,2.3
-1215.0,Always,Toys,"Hood, Welch and Wheeler",,4.19,White,1.0,2021.0,3.0
-1216.0,Feeling,Home & Kitchen,Martinez-Peters,33.57,8.224,Black,5.0,2022.0,2.8
-1217.0,Market,Home & Kitchen,"Alvarez, Lindsey and Winters",730.7,6.939,Red,0.0,2015.0,3.4
-1218.0,Available,Electronics,Parsons and Sons,127.74,5.281,Blue,0.0,2000.0,2.8
-1219.0,As,Electronics,Chavez-Collins,603.95,9.002,Red,,2008.0,1.9
-1220.0,Weight,Books,"Pope, Doyle and Wilkins",800.82,9.345,Black,2.0,2005.0,
-1221.0,Arm,Toys,Bradley and Sons,30.88,8.459,Yellow,5.0,2015.0,2.2
-1222.0,Even,Stationery,"Shaw, Williams and Richardson",738.88,6.283,Red,2.0,2001.0,3.2
-1223.0,Degree,Stationery,Wade-Roberts,547.66,3.587,Black,0.0,2016.0,3.4
-,Win,Clothing,Bailey PLC,,7.879,Yellow,1.0,2019.0,1.4
-1225.0,Consumer,Books,"Ross, Reed and Harris",908.73,1.539,Green,3.0,2003.0,2.4
-1226.0,Marriage,Books,"Jackson, Murphy and Mcconnell",713.54,,Black,5.0,2005.0,3.7
-1227.0,Move,Electronics,Hoffman Ltd,359.39,6.588,Blue,2.0,2010.0,2.3
-1228.0,Other,,Hobbs LLC,603.11,1.43,White,3.0,2016.0,1.9
-1229.0,Take,Books,Gaines LLC,685.0,1.083,Blue,0.0,2016.0,4.6
-1230.0,Method,Electronics,Barnett Ltd,707.93,8.961,Yellow,2.0,2021.0,5.0
-1231.0,Later,Home & Kitchen,Gaines LLC,661.22,6.48,Yellow,1.0,2003.0,4.2
-1232.0,Rest,Home & Kitchen,Harvey-Shields,530.83,7.029,Blue,0.0,2006.0,2.8
-1233.0,Spring,Electronics,Page Inc,147.86,7.825,Green,3.0,2011.0,3.4
-1234.0,Black,Books,Watson-Rasmussen,684.32,7.198,White,3.0,2018.0,3.3
-1235.0,Good,Toys,Anderson Group,280.45,4.481,Black,0.0,,3.8
-1236.0,Drop,Clothing,Martinez-Peters,757.57,1.091,Black,0.0,2018.0,4.7
-1237.0,,Home & Kitchen,"Pittman, Camacho and Miller",441.65,9.506,Green,3.0,2013.0,1.4
-1238.0,,Books,Daniels LLC,,7.365,Green,3.0,2011.0,4.1
-1239.0,Herself,Toys,Chavez-Collins,231.95,4.547,White,5.0,2022.0,2.3
-,Describe,Stationery,Page Inc,654.52,0.889,White,1.0,2010.0,3.9
-1241.0,Reduce,Clothing,Wade-Roberts,546.62,6.972,Black,1.0,2015.0,4.2
-1242.0,Where,Stationery,Navarro-Sanchez,,5.874,Yellow,2.0,2010.0,2.2
-1243.0,According,Clothing,Robertson and Sons,650.04,5.584,Red,3.0,2015.0,2.7
-1244.0,Adult,Home & Kitchen,Hansen-Howell,683.16,9.368,Black,5.0,2022.0,3.4
-1245.0,Three,Home & Kitchen,"Jackson, Murphy and Mcconnell",659.2,3.694,Green,0.0,2010.0,4.9
-1246.0,Pay,Books,Bradley and Sons,77.93,4.987,White,5.0,2013.0,1.5
-1247.0,Crime,Clothing,Wade-Roberts,283.8,3.118,Black,2.0,2009.0,3.1
-1248.0,Arrive,Toys,Tran Inc,227.05,7.573,Blue,2.0,2017.0,2.6
-1249.0,Evening,Stationery,Hobbs LLC,407.26,4.142,Green,1.0,2021.0,3.7
-1250.0,Store,Books,"Lee, Kemp and White",391.19,1.606,Black,5.0,2005.0,2.2
-1251.0,Discover,Stationery,Barnett Ltd,106.95,9.513,Red,0.0,2004.0,1.0
-1252.0,Protect,Stationery,Young Inc,948.11,5.009,Black,0.0,2019.0,1.6
-1253.0,Poor,Toys,Tran Inc,336.44,9.176,White,1.0,2020.0,3.2
-1254.0,Oil,Books,"Pope, Doyle and Wilkins",108.53,5.169,Green,0.0,2013.0,2.2
-1255.0,Prove,Home & Kitchen,Hansen-Howell,295.41,9.318,,2.0,2001.0,3.6
-1256.0,Economy,Books,Bernard Group,586.0,,Red,5.0,2007.0,4.6
-1257.0,Science,Home & Kitchen,Robertson and Sons,170.54,5.609,White,2.0,2017.0,2.0
-,Law,Clothing,Ruiz and Sons,160.8,8.081,Black,1.0,2013.0,4.9
-1259.0,Trip,Stationery,Hobbs LLC,217.05,7.011,White,1.0,2009.0,4.3
-1260.0,South,Toys,Kline LLC,27.63,6.339,Green,1.0,2017.0,4.7
-1261.0,Blue,Home & Kitchen,Hoffman Ltd,304.15,9.567,Green,5.0,2000.0,4.2
-1262.0,Top,Clothing,Wade-Roberts,625.42,4.019,Green,,2022.0,4.2
-1263.0,Country,Home & Kitchen,Howell LLC,821.51,,Black,1.0,2016.0,1.5
-1264.0,Opportunity,Toys,Ruiz and Sons,791.87,4.692,Green,0.0,2001.0,4.2
-,Friend,Stationery,"Huff, Richardson and Williamson",691.98,5.711,Blue,0.0,2005.0,4.4
-1266.0,Instead,,Hernandez Ltd,785.72,3.13,White,2.0,,2.4
-1267.0,End,,Hoffman Ltd,,5.425,Green,2.0,2009.0,1.6
-1268.0,Citizen,Home & Kitchen,Robertson and Sons,,8.547,White,3.0,2004.0,2.3
-1269.0,Man,Toys,Bernard Group,801.37,4.76,White,3.0,2015.0,1.1
-1270.0,Discussion,,"Jackson, Murphy and Mcconnell",686.58,7.487,Green,2.0,2022.0,1.4
-1271.0,Total,Clothing,Bailey PLC,610.04,3.028,Red,0.0,2009.0,4.3
-1272.0,Success,Clothing,"Ross, Reed and Harris",498.39,2.185,Black,0.0,2022.0,4.8
-1273.0,Whom,Electronics,Harris-Wallace,837.93,7.966,White,0.0,2009.0,3.5
-1274.0,Color,,Kline LLC,983.8,,Yellow,2.0,2007.0,2.2
-1275.0,Economic,Clothing,"Mitchell, White and Johns",50.84,,Green,2.0,2016.0,3.9
-1276.0,Can,,Holland-Wagner,734.9,,Green,2.0,2005.0,1.3
-1277.0,Environment,Clothing,"Mitchell, White and Johns",,,Blue,2.0,2007.0,1.4
-1278.0,According,Toys,Martin-Brown,,7.108,Black,1.0,2018.0,3.8
-1279.0,However,Clothing,Harvey-Shields,371.36,7.372,Blue,3.0,2007.0,3.1
-1280.0,Poor,Electronics,Robertson and Sons,710.71,4.216,Black,1.0,2008.0,2.0
-1281.0,Effort,Toys,"Harris, Powell and Barnett",209.34,8.205,Green,0.0,2022.0,2.9
-1282.0,Within,Toys,Anderson Group,279.5,1.008,Green,0.0,2002.0,4.2
-1283.0,Catch,Home & Kitchen,"Peters, Wong and Sanchez",52.31,4.831,White,5.0,2008.0,
-1284.0,Interesting,Clothing,Jones PLC,293.2,8.172,White,1.0,2020.0,3.2
-1285.0,Smile,Books,"Alvarez, Lindsey and Winters",448.6,5.35,White,0.0,2005.0,2.1
-1286.0,However,Stationery,"Mcdonald, Casey and Martinez",461.64,,Green,5.0,2018.0,4.7
-1287.0,,Books,"Huff, Richardson and Williamson",102.31,0.494,Yellow,,2023.0,4.1
-1288.0,Will,Books,"Huff, Richardson and Williamson",902.17,1.001,White,5.0,2013.0,2.4
-1289.0,Reflect,Home & Kitchen,Young Inc,,8.038,Blue,2.0,2017.0,2.2
-1290.0,Piece,Clothing,Wade-Roberts,625.29,9.214,Black,2.0,2014.0,3.9
-1291.0,Amount,Electronics,Gaines LLC,,0.424,Blue,2.0,2010.0,3.0
-1292.0,Before,Toys,Navarro-Sanchez,685.06,1.551,Red,5.0,2003.0,2.1
-1293.0,Before,Books,Bradley and Sons,777.22,1.993,Blue,5.0,2001.0,4.2
-1294.0,Training,Electronics,"Alvarez, Lindsey and Winters",899.23,7.824,Black,3.0,2013.0,3.2
-1295.0,Rock,Clothing,Navarro-Sanchez,,1.105,White,3.0,2000.0,4.3
-1296.0,Term,Books,Garcia PLC,253.87,3.95,Black,2.0,2006.0,2.3
-1297.0,Interview,Home & Kitchen,,517.75,6.15,Black,2.0,2001.0,2.2
-,Knowledge,Books,Bradley and Sons,337.31,2.529,White,3.0,2019.0,3.2
-1299.0,Sport,Clothing,Holland-Wagner,223.85,5.833,Green,3.0,2002.0,1.7
-1300.0,Act,Stationery,Hernandez Ltd,,0.884,,2.0,2017.0,1.8
-1301.0,Identify,Home & Kitchen,Terry Inc,305.81,4.452,Yellow,1.0,2012.0,4.4
-1302.0,Policy,Toys,,396.26,0.86,Black,0.0,2022.0,1.5
-1303.0,Admit,Home & Kitchen,Navarro-Sanchez,146.59,2.836,Green,5.0,2013.0,
-1304.0,Interest,Clothing,"Hood, Welch and Wheeler",984.81,6.056,White,2.0,2009.0,3.5
-1305.0,Much,Toys,Harvey-Shields,777.67,8.693,White,3.0,2017.0,1.4
-1306.0,Range,Toys,Hoffman Ltd,300.65,1.932,Red,,2022.0,1.7
-1307.0,Political,Books,"Pittman, Camacho and Miller",351.21,1.958,Red,2.0,2010.0,1.6
-1308.0,At,Toys,"Ross, Reed and Harris",644.66,4.936,White,5.0,2013.0,4.4
-1309.0,Rather,Toys,Hernandez Ltd,64.64,7.53,,0.0,2019.0,2.0
-1310.0,Rock,Electronics,Hernandez Ltd,272.86,7.079,Red,5.0,2011.0,3.0
-1311.0,Whom,Home & Kitchen,Harvey-Shields,272.44,2.47,Yellow,2.0,2021.0,3.7
-1312.0,Woman,Home & Kitchen,"Pittman, Camacho and Miller",538.14,,Yellow,1.0,2014.0,3.5
-1313.0,Center,Clothing,Harris-Wallace,221.58,,Red,1.0,2014.0,1.8
-1314.0,Stock,Home & Kitchen,"Warner, Smith and Reyes",450.16,5.88,Blue,0.0,2003.0,2.3
-1315.0,Among,Clothing,,578.33,7.371,Green,0.0,2023.0,3.0
-1316.0,,Stationery,Watson-Rasmussen,611.37,0.809,Red,2.0,2021.0,1.8
-1317.0,,Electronics,Bradley and Sons,661.8,,,5.0,2008.0,1.8
-1318.0,Major,Stationery,Barnett Ltd,184.83,3.27,White,1.0,,2.7
-1319.0,Size,Books,"Warner, Smith and Reyes",559.03,3.016,Red,0.0,2013.0,2.3
-1320.0,Tax,Stationery,Wade-Roberts,186.65,7.357,White,2.0,2000.0,3.0
-1321.0,Future,Stationery,Bradley and Sons,,3.66,Blue,2.0,2003.0,4.9
-,Political,Stationery,Gaines LLC,572.78,9.865,Green,1.0,,2.4
-1323.0,Near,Books,Martin-Brown,385.88,3.642,Green,1.0,2020.0,4.9
-1324.0,Just,Books,"Russell, Schneider and Smith",404.45,5.408,White,3.0,2018.0,3.8
-1325.0,Middle,Clothing,Hansen-Howell,452.41,2.487,Green,0.0,2019.0,4.4
-1326.0,Yourself,Stationery,Anderson Group,502.65,6.631,White,1.0,2011.0,4.0
-1327.0,Interview,Clothing,"Pope, Doyle and Wilkins",964.79,4.087,Green,5.0,,2.4
-1328.0,We,Clothing,Young Inc,976.86,4.148,Red,2.0,2001.0,4.2
-1329.0,Father,Clothing,"Pope, Doyle and Wilkins",947.52,2.772,Red,2.0,2009.0,1.9
-1330.0,Main,Electronics,"Mcdonald, Casey and Martinez",9.2,2.82,Green,2.0,2017.0,4.9
-1331.0,By,Home & Kitchen,Daniels LLC,966.05,8.948,Yellow,,2001.0,3.5
-1332.0,Than,,"Pittman, Camacho and Miller",735.55,1.63,White,2.0,2013.0,3.3
-1333.0,Congress,Toys,,481.64,2.433,Yellow,1.0,2022.0,2.8
-1334.0,Truth,Electronics,Garcia PLC,998.79,9.98,White,0.0,2006.0,2.0
-1335.0,Great,Home & Kitchen,Ruiz and Sons,770.22,4.249,Green,5.0,2004.0,2.1
-1336.0,,Stationery,"Hood, Welch and Wheeler",181.43,7.952,Blue,0.0,2015.0,2.5
-1337.0,Adult,Electronics,"Russell, Schneider and Smith",920.49,5.536,Green,3.0,2005.0,2.4
-1338.0,Everything,Books,Harris-Wallace,34.04,9.201,Blue,2.0,2007.0,2.0
-1339.0,Finally,Books,Parsons and Sons,590.12,5.696,Black,3.0,2018.0,1.3
-,Change,Toys,,255.42,6.194,White,3.0,2003.0,2.9
-1341.0,Natural,Stationery,Bailey PLC,749.64,5.003,White,3.0,2012.0,3.4
-1342.0,Pm,,"Ross, Reed and Harris",946.7,9.536,Green,5.0,2003.0,2.3
-,Allow,Clothing,,147.88,0.18,Black,2.0,2001.0,5.0
-1344.0,Treat,Electronics,,237.42,1.771,Red,0.0,2022.0,1.8
-1345.0,Great,Stationery,"Huff, Richardson and Williamson",85.79,3.279,Blue,3.0,2005.0,5.0
-1346.0,Step,Home & Kitchen,Ruiz and Sons,834.73,2.782,Yellow,,2022.0,2.1
-1347.0,,Stationery,Tran Inc,840.71,8.31,Red,3.0,2014.0,3.6
-1348.0,Consider,Electronics,Ruiz and Sons,131.25,7.045,Blue,3.0,2005.0,4.0
-1349.0,Campaign,Stationery,Martinez-Peters,797.63,8.244,White,5.0,2022.0,1.6
-1350.0,Too,Books,"Lee, Kemp and White",50.99,6.118,White,,2014.0,1.2
-1351.0,Upon,Stationery,Howell LLC,556.78,1.842,White,5.0,2018.0,1.1
-1352.0,Production,Toys,Kline LLC,621.65,8.446,,1.0,2016.0,2.8
-1353.0,Consumer,Stationery,"Jackson, Murphy and Mcconnell",215.78,1.869,Black,3.0,2015.0,1.8
-1354.0,Ten,,Hobbs LLC,653.93,,Yellow,3.0,2004.0,2.2
-1355.0,Resource,Electronics,Page Inc,66.78,6.511,Blue,3.0,2005.0,1.1
-1356.0,Property,Home & Kitchen,"Huff, Richardson and Williamson",191.22,1.377,Blue,3.0,2022.0,1.5
-1357.0,Just,Toys,Young Inc,746.38,4.173,Red,5.0,2000.0,1.8
-1358.0,Beyond,Toys,Howell LLC,686.85,5.263,Yellow,1.0,2007.0,4.5
-1359.0,Establish,Clothing,"Huff, Richardson and Williamson",41.68,0.83,Red,0.0,2009.0,
-1360.0,Name,Home & Kitchen,"Harris, Powell and Barnett",741.25,7.301,Yellow,0.0,2023.0,1.5
-1361.0,Husband,Toys,Howell LLC,187.13,6.811,Yellow,5.0,2006.0,4.3
-1362.0,Nearly,Clothing,"Peters, Wong and Sanchez",309.79,6.158,Black,3.0,2023.0,4.3
-1363.0,Tv,Toys,Gaines LLC,,9.411,White,2.0,2022.0,4.9
-1364.0,Local,Home & Kitchen,Howell LLC,367.45,6.728,Yellow,2.0,2000.0,3.7
-1365.0,,Stationery,"Lee, Kemp and White",849.37,6.099,Yellow,1.0,2012.0,2.2
-1366.0,Section,Toys,Robertson and Sons,24.83,1.708,Blue,3.0,2012.0,3.0
-1367.0,Upon,Clothing,"Russell, Schneider and Smith",614.91,6.046,Black,2.0,2012.0,4.9
-1368.0,Stand,Clothing,"Peters, Wong and Sanchez",760.31,6.367,,0.0,2002.0,2.6
-1369.0,Political,Home & Kitchen,"Ross, Reed and Harris",948.79,2.203,White,5.0,2008.0,1.8
-1370.0,Ball,Toys,Terry Inc,458.23,9.609,Red,1.0,2023.0,1.4
-1371.0,Hundred,Books,"Weiss, Donaldson and Raymond",412.35,0.148,Green,3.0,2002.0,1.3
-1372.0,Pressure,Books,"Russell, Schneider and Smith",405.34,,Yellow,1.0,2021.0,4.3
-1373.0,Cold,Electronics,Bailey PLC,,6.953,White,5.0,2003.0,1.4
-1374.0,Tend,Books,Robertson and Sons,616.6,1.503,Black,1.0,2004.0,3.6
-1375.0,Theory,Books,Bailey PLC,824.69,9.574,,5.0,2005.0,4.6
-1376.0,Together,Toys,Robertson and Sons,354.49,,Blue,1.0,2006.0,2.7
-,Little,Home & Kitchen,"Warner, Smith and Reyes",158.58,9.982,Black,3.0,2006.0,2.4
-1378.0,Economy,Books,Jones PLC,729.04,4.689,Blue,0.0,2016.0,2.5
-1379.0,Program,Home & Kitchen,Gaines LLC,277.53,,Red,5.0,2023.0,1.1
-1380.0,,Clothing,"Huff, Richardson and Williamson",985.01,7.362,Red,3.0,2019.0,1.2
-1381.0,Whole,Toys,Anderson Group,61.09,5.218,White,2.0,2014.0,4.0
-1382.0,Discussion,Books,Hansen-Howell,430.39,1.219,Blue,3.0,2012.0,2.6
-1383.0,Actually,Books,Wade-Roberts,995.82,,Red,0.0,2017.0,3.2
-1384.0,Plan,Home & Kitchen,"Mitchell, White and Johns",53.89,0.428,Blue,3.0,2002.0,3.2
-1385.0,Hard,,Navarro-Sanchez,145.95,5.958,Red,0.0,2001.0,2.6
-1386.0,Role,Electronics,"Pittman, Camacho and Miller",395.16,9.828,,5.0,2009.0,4.5
-1387.0,There,Electronics,Bernard Group,622.31,4.808,Blue,3.0,2021.0,4.7
-1388.0,Pick,Home & Kitchen,Bernard Group,917.93,3.892,Yellow,3.0,2014.0,
-1389.0,Training,Books,"Jackson, Murphy and Mcconnell",549.36,9.122,Yellow,5.0,2017.0,
-1390.0,And,Stationery,Page Inc,896.63,0.444,Black,1.0,2004.0,
-1391.0,,Electronics,Howell LLC,641.5,5.803,,5.0,2015.0,1.5
-1392.0,Think,Clothing,Hobbs LLC,998.26,1.332,Blue,3.0,2019.0,4.3
-1393.0,Body,Electronics,Garcia PLC,964.21,5.946,White,1.0,2015.0,2.2
-1394.0,Wear,Books,Wade-Roberts,104.25,1.321,Black,1.0,2000.0,1.4
-1395.0,Structure,Toys,Martin-Brown,143.6,4.178,Yellow,2.0,2017.0,1.0
-1396.0,Player,Books,Hansen-Howell,138.43,0.445,Red,,2006.0,4.6
-1397.0,Get,Stationery,,953.04,6.558,Yellow,0.0,2018.0,1.5
-1398.0,Road,Toys,"Russell, Schneider and Smith",844.55,3.514,White,1.0,2022.0,2.7
-1399.0,Myself,Stationery,Robertson and Sons,427.33,7.756,Yellow,1.0,2023.0,3.2
-1400.0,College,Electronics,"Harris, Powell and Barnett",379.13,2.627,Red,5.0,2013.0,1.6
-,Detail,Books,,825.98,0.94,White,2.0,2011.0,2.9
-1402.0,Prevent,Toys,Bailey PLC,724.13,2.149,Red,2.0,2023.0,3.6
-,Think,Books,Navarro-Sanchez,830.21,5.643,Black,2.0,2000.0,4.7
-1404.0,Evening,Stationery,"Lee, Kemp and White",446.86,0.641,Blue,2.0,2000.0,2.8
-1405.0,Bring,Toys,"Hood, Welch and Wheeler",144.85,9.612,Blue,5.0,2004.0,4.0
-1406.0,Whatever,Toys,"Harris, Powell and Barnett",718.17,3.408,Green,2.0,2008.0,2.8
-1407.0,Law,Books,Cole-Martin,785.67,5.1,Black,5.0,2022.0,
-1408.0,Soon,Books,Martinez-Peters,742.83,3.881,Blue,5.0,2006.0,5.0
-1409.0,Against,Stationery,,252.25,9.09,Blue,1.0,2007.0,3.5
-1410.0,Level,Clothing,"Mcdonald, Casey and Martinez",659.14,0.899,Black,2.0,2012.0,2.7
-1411.0,,Toys,"Pope, Doyle and Wilkins",114.47,2.903,Blue,2.0,2014.0,4.3
-1412.0,Security,Electronics,"Shaw, Williams and Richardson",965.19,3.017,White,3.0,2020.0,3.0
-,,Books,Gaines LLC,313.11,,Black,2.0,2008.0,2.0
-1414.0,Indicate,Books,Watson-Rasmussen,504.3,4.66,White,3.0,,2.6
-1415.0,Better,Books,Jones PLC,524.8,3.235,,5.0,,4.0
-1416.0,Less,Electronics,Baker Ltd,771.91,9.875,Yellow,2.0,2003.0,2.2
-1417.0,Interest,Stationery,"Hood, Welch and Wheeler",,7.168,Blue,1.0,2002.0,2.8
-1418.0,Send,Electronics,"Jackson, Murphy and Mcconnell",32.8,2.122,Green,5.0,2021.0,1.5
-1419.0,She,Clothing,Hansen-Howell,5.12,9.756,Black,5.0,2001.0,2.6
-1420.0,Water,Clothing,Howell LLC,198.63,5.26,Green,1.0,2011.0,3.2
-1421.0,Series,Home & Kitchen,Gaines LLC,806.78,6.659,Red,3.0,2015.0,1.1
-1422.0,Little,Stationery,Barnett Ltd,934.32,2.815,Red,0.0,2019.0,1.9
-,Attorney,Electronics,Garcia PLC,346.52,2.538,Green,0.0,2007.0,1.4
-1424.0,Foot,Home & Kitchen,"Hood, Welch and Wheeler",141.19,6.902,Black,0.0,2022.0,2.7
-1425.0,Rule,Toys,"Russell, Schneider and Smith",528.12,9.892,Yellow,3.0,,1.7
-1426.0,Continue,Home & Kitchen,"Huff, Richardson and Williamson",69.18,1.928,Green,0.0,2002.0,2.1
-,Foreign,Books,Harris-Wallace,201.19,0.559,Blue,5.0,2006.0,2.5
-1428.0,Away,Stationery,Garcia PLC,190.1,1.629,Yellow,2.0,2010.0,1.3
-1429.0,Too,Toys,,705.34,1.585,,,2019.0,4.2
-1430.0,Know,Electronics,Bernard Group,,,Green,5.0,2016.0,4.2
-1431.0,Life,Clothing,Navarro-Sanchez,461.09,,Green,1.0,2015.0,4.3
-1432.0,Light,Electronics,Bailey PLC,390.6,6.582,Red,,2017.0,4.1
-1433.0,Work,Home & Kitchen,Hobbs LLC,753.1,8.454,,,,4.5
-1434.0,Speech,Clothing,Howell LLC,90.17,6.024,Black,2.0,2017.0,2.9
-,Recently,Electronics,Harvey-Shields,521.71,9.345,Blue,1.0,2008.0,
-1436.0,Major,Stationery,Bailey PLC,548.41,3.366,White,2.0,2016.0,2.2
-1437.0,Opportunity,Electronics,"Harris, Powell and Barnett",940.04,7.736,Green,3.0,2020.0,2.7
-1438.0,Light,Electronics,Gaines LLC,486.27,5.024,Blue,0.0,2019.0,4.3
-1439.0,Air,Stationery,Garcia PLC,924.74,5.28,,2.0,2013.0,2.7
-1440.0,Feeling,Books,"Russell, Schneider and Smith",337.99,5.486,Black,5.0,2001.0,4.4
-1441.0,Believe,Stationery,Hernandez Ltd,603.45,9.678,Yellow,1.0,2018.0,2.4
-1442.0,Various,Clothing,Tran Inc,904.25,5.773,Yellow,3.0,2007.0,3.5
-1443.0,Cup,Clothing,"Mitchell, White and Johns",935.28,0.34,Blue,5.0,2011.0,3.8
-1444.0,Catch,Electronics,"Russell, Schneider and Smith",712.72,0.5,White,3.0,2011.0,2.2
-1445.0,Condition,Toys,"Alvarez, Lindsey and Winters",523.74,6.246,Blue,1.0,2000.0,2.1
-1446.0,Realize,,Young Inc,788.9,0.843,Red,0.0,2013.0,4.5
-1447.0,Product,Toys,Bailey PLC,397.7,2.649,Yellow,0.0,2011.0,3.3
-1448.0,Mrs,Books,"Lee, Kemp and White",642.51,6.348,White,1.0,2007.0,4.6
-1449.0,Science,Books,Harvey-Shields,287.97,0.423,Green,5.0,2018.0,1.2
-1450.0,For,Toys,Young Inc,345.29,8.254,Black,5.0,2020.0,2.3
-1451.0,Law,Books,"Huff, Richardson and Williamson",80.98,9.799,Red,2.0,2005.0,2.6
-1452.0,Service,Books,Anderson Group,363.9,3.399,Red,0.0,2015.0,1.6
-1453.0,Vote,Home & Kitchen,Wade-Roberts,422.38,0.323,Green,2.0,2003.0,4.6
-1454.0,Line,Stationery,Terry Inc,655.09,2.179,Green,5.0,2005.0,1.9
-,Case,Stationery,Hernandez Ltd,142.01,,Black,2.0,2010.0,1.7
-1456.0,Yet,Electronics,"Pope, Doyle and Wilkins",770.56,1.128,White,,2008.0,2.1
-1457.0,Green,Home & Kitchen,Parsons and Sons,77.39,4.121,Green,5.0,2017.0,2.0
-1458.0,,Stationery,Baker Ltd,541.28,6.274,Blue,0.0,2012.0,1.1
-1459.0,,Books,Ruiz and Sons,561.08,3.962,Black,3.0,2007.0,4.7
-1460.0,Near,Home & Kitchen,"Sullivan, Walsh and Higgins",457.17,2.654,Yellow,2.0,2001.0,2.3
-1461.0,Civil,Home & Kitchen,,938.82,9.46,White,1.0,2011.0,1.2
-1462.0,Recently,Clothing,"Harris, Powell and Barnett",92.76,3.169,Green,2.0,2022.0,4.9
-1463.0,Value,Clothing,Martin-Brown,114.82,4.563,Green,0.0,2021.0,3.4
-1464.0,Anything,Stationery,"Weiss, Donaldson and Raymond",911.11,1.451,Blue,3.0,2008.0,3.6
-1465.0,Vote,Stationery,Gaines LLC,406.93,9.688,Yellow,5.0,2008.0,3.5
-1466.0,Character,Books,Martin-Brown,464.57,6.225,Black,5.0,2014.0,2.9
-1467.0,Alone,Electronics,Watson-Rasmussen,77.07,9.033,Blue,0.0,2017.0,4.6
-1468.0,Suffer,Clothing,Barnett Ltd,770.41,9.288,Yellow,0.0,2012.0,3.8
-1469.0,Just,,Gaines LLC,178.38,0.72,Black,5.0,2019.0,2.3
-1470.0,Information,Stationery,"Pittman, Camacho and Miller",673.53,2.385,Yellow,5.0,2002.0,1.5
-1471.0,Meet,Clothing,"Pope, Doyle and Wilkins",135.68,8.42,Black,2.0,2012.0,2.5
-1472.0,Effort,Electronics,"Pittman, Camacho and Miller",611.96,3.857,Red,0.0,2015.0,2.1
-1473.0,Activity,Clothing,Ruiz and Sons,970.74,5.047,Green,5.0,2019.0,4.9
-1474.0,Continue,Books,Robertson and Sons,614.1,3.105,Green,1.0,,2.9
-1475.0,Evidence,Stationery,"Mcdonald, Casey and Martinez",415.6,6.866,Red,1.0,2015.0,3.8
-1476.0,Candidate,,Gaines LLC,986.26,1.561,Blue,2.0,2014.0,3.2
-1477.0,Item,Stationery,Chavez-Collins,,8.227,,2.0,2001.0,
-1478.0,Point,Toys,Martinez-Peters,251.82,0.805,White,5.0,2010.0,3.2
-,Those,Books,"Ross, Reed and Harris",880.13,5.57,Green,0.0,2017.0,1.2
-1480.0,Including,,,983.52,7.015,Blue,5.0,2012.0,2.2
-1481.0,Southern,Books,Ruiz and Sons,38.31,5.193,Green,3.0,2006.0,3.7
-1482.0,Within,,Parsons and Sons,912.25,2.76,Red,1.0,2013.0,3.8
-1483.0,We,Books,Parsons and Sons,39.08,3.609,Yellow,0.0,2003.0,2.1
-1484.0,Girl,Books,Parsons and Sons,626.18,7.236,Red,3.0,2007.0,4.3
-1485.0,Story,Home & Kitchen,Terry Inc,277.33,5.384,Black,0.0,2009.0,2.3
-1486.0,Market,Clothing,,285.6,6.421,Blue,0.0,2008.0,1.8
-1487.0,Manager,Toys,,899.65,4.088,Green,3.0,2004.0,1.1
-1488.0,People,Stationery,Young Inc,988.0,0.628,Blue,,2021.0,2.9
-1489.0,Pay,Home & Kitchen,"Warner, Smith and Reyes",734.97,7.933,White,3.0,2023.0,4.6
-1490.0,Break,Toys,Parsons and Sons,495.84,9.683,,5.0,2021.0,3.8
-1491.0,Around,Electronics,"Pope, Doyle and Wilkins",380.0,3.423,Black,2.0,2020.0,3.7
-1492.0,Computer,Electronics,Hansen-Howell,568.51,8.112,Blue,2.0,2021.0,2.6
-1493.0,Television,Books,Harvey-Shields,187.62,3.088,White,3.0,2013.0,1.2
-1494.0,Need,Clothing,"Huff, Richardson and Williamson",623.68,0.487,Black,0.0,,3.2
-1495.0,State,Toys,Harris-Wallace,578.98,0.314,White,2.0,2007.0,2.5
-1496.0,Design,Home & Kitchen,Anderson Group,881.16,2.796,Black,0.0,2001.0,2.1
-1497.0,Then,Stationery,Jones PLC,644.57,7.881,White,3.0,2013.0,
-1498.0,Site,Toys,"Hood, Welch and Wheeler",629.91,6.087,Blue,5.0,2022.0,4.2
-1499.0,Easy,Clothing,Wade-Roberts,167.59,5.843,Green,1.0,2002.0,2.4
-1366.0,Section,Toys,Robertson and Sons,24.83,1.708,Blue,3.0,2012.0,3.0
-1241.0,Reduce,Clothing,Wade-Roberts,546.62,6.972,Black,1.0,2015.0,4.2
-1012.0,Grow,Clothing,Ruiz and Sons,26.12,5.085,Green,5.0,2021.0,1.6
-1259.0,Trip,Stationery,Hobbs LLC,217.05,7.011,White,1.0,2009.0,4.3
-1194.0,Many,Electronics,Kline LLC,131.0,6.955,Red,0.0,2011.0,2.3
-1347.0,,Stationery,Tran Inc,840.71,8.31,Red,3.0,2014.0,3.6
-1035.0,Their,,"Mcdonald, Casey and Martinez",71.47,4.453,Blue,2.0,2014.0,3.9
-1302.0,Policy,Toys,,396.26,0.86,Black,0.0,2022.0,1.5
-1439.0,Air,Stationery,Garcia PLC,924.74,5.28,,2.0,2013.0,2.7
-1169.0,Rich,Toys,Harvey-Shields,760.97,2.938,Blue,0.0,2008.0,3.3
+,Energy,Home & Kitchen,"Garrett, Warren and Malone",791.85,8.706,Yellow,2,2003,3.6
+1001,The,Home & Kitchen,Williams-Burns,818.79,9.406,Red,1,2022,4.9
+1002,Government,Stationery,Robinson-Morales,189.54,4.699,Yellow,5,2021,1.4
+1003,Group,Clothing,"Yates, Lee and Pena",332.71,8.615,Black,0,2003,4.7
+1004,Order,Stationery,"Garcia, Dillon and Williams",927.64,1.202,White,3,2003,3.8
+1005,Hotel,Stationery,Flores-King,,6.631,Black,2,2015,1.8
+1006,Threat,Books,,493.32,1.999,Red,2,2003,1.4
+1007,Amount,Clothing,Williams-Burns,819.87,3.426,Black,0,2009,2.2
+1008,Billion,Electronics,Saunders-Cortez,,1.454,White,1,2011,2.1
+1009,Old,Clothing,Anderson PLC,178.78,1.449,Blue,3,2002,1.0
+1010,Gun,Toys,Vasquez-Huynh,821.36,5.833,,2,2002,4.8
+1011,Need,Toys,Allen Inc,906.22,6.231,Black,5,2005,2.9
+,,Electronics,Vasquez-Huynh,421.57,8.651,Blue,5,2004,
+1013,Accept,Clothing,Swanson-Wilson,815.92,4.768,Green,2,2003,1.0
+1014,Follow,Toys,"Yates, Lee and Pena",832.63,2.092,Red,5,2005,3.0
+1015,Hotel,Toys,Holt-Robertson,543.96,0.356,Red,0,2008,2.4
+1016,Measure,Toys,"Phillips, Williams and Montgomery",729.25,8.856,Blue,2,2005,4.9
+1017,American,Books,Williams-Barr,229.36,1.769,Black,5,2019,4.6
+1018,Tell,Books,,853.01,2.153,Black,5,2003,2.9
+1019,Again,Toys,Huang Group,172.69,4.759,Yellow,3,2003,1.9
+1020,Sign,Clothing,Alexander-Williamson,504.24,7.104,Red,3,2018,3.5
+1021,Boy,Stationery,Alvarez PLC,,2.156,Green,5,2007,3.7
+1022,Throw,Toys,Johnson-Macias,421.28,7.98,Blue,3,2010,2.1
+1023,Get,Home & Kitchen,Wiley PLC,975.06,8.912,Blue,,2001,3.1
+1024,Live,Toys,"Hernandez, Reyes and Stewart",364.63,6.791,Yellow,1,2012,3.0
+1025,Wide,Books,Johnson-Macias,123.76,2.6,White,5,2009,4.0
+1026,Beat,Home & Kitchen,Garcia Inc,287.87,4.158,Yellow,0,2014,2.1
+1027,Or,Stationery,"Richards, Gutierrez and Turner",7.42,8.919,Black,0,2001,4.1
+1028,Ahead,Stationery,Bowman-King,922.6,8.416,White,0,2009,1.1
+1029,Notice,Toys,Nguyen and Sons,911.67,2.028,Blue,5,2020,4.5
+1030,Nor,Books,Vasquez-Huynh,991.86,9.166,White,3,2017,3.9
+1031,Environment,Clothing,Nguyen and Sons,335.41,9.709,Red,5,2022,2.5
+1032,Model,Electronics,Lewis LLC,994.93,0.952,Red,2,2023,2.0
+1033,Sport,Home & Kitchen,,331.66,4.32,,5,2013,3.3
+,Course,Home & Kitchen,"Johnson, Cooper and Williams",782.46,5.51,Yellow,2,2015,3.2
+1035,Cover,Stationery,Alvarez PLC,476.21,3.379,Yellow,0,2007,2.5
+1036,Card,Stationery,Mccarthy-Shepard,293.31,6.849,Yellow,0,2013,2.3
+1037,Me,,Ford-Griffith,520.01,2.249,Black,2,2019,1.0
+1038,Though,Toys,Allen Inc,478.3,5.394,Green,2,2023,4.5
+1039,,Books,Morales LLC,906.37,1.249,Blue,3,2019,2.7
+1040,Fast,Clothing,Garcia Inc,166.77,0.924,White,2,2023,1.5
+1041,Buy,Clothing,"Richardson, Burton and Lee",325.0,0.297,Yellow,0,2010,2.1
+1042,White,Books,Nguyen and Sons,375.32,5.02,White,1,2007,3.7
+1043,Film,Toys,Wilson LLC,,5.658,Green,1,2007,3.4
+1044,Fly,Clothing,Flores-King,325.85,0.71,Black,5,2022,1.4
+1045,Itself,Clothing,Garcia Inc,502.09,5.491,Yellow,1,2001,1.8
+1046,Item,Stationery,Martin-Morgan,595.53,0.952,Black,2,2012,
+1047,Piece,Clothing,Burnett-Drake,534.17,0.472,Red,0,2012,3.9
+1048,,Home & Kitchen,"Richards, Gutierrez and Turner",737.01,8.334,Red,5,2020,4.3
+1049,New,Toys,Saunders-Cortez,262.63,,Yellow,2,2021,4.1
+1050,Stop,Clothing,Burnett-Drake,888.73,2.314,White,2,,1.2
+1051,Class,Books,"Garcia, Dillon and Williams",937.36,,Blue,2,2000,3.4
+1052,Money,,Johnson-Macias,573.55,0.457,,5,2016,4.8
+1053,Maybe,,Haley-Norton,354.5,3.827,Black,1,2008,4.6
+1054,Send,Toys,Navarro-Mitchell,281.31,8.621,White,2,2016,3.3
+1055,Better,Stationery,"Richardson, Burton and Lee",515.69,2.139,,1,2021,1.6
+1056,,Electronics,Anderson-Wright,264.05,3.215,Black,1,2023,3.3
+1057,Set,Books,Anderson Ltd,348.25,7.425,,5,2004,2.8
+1058,Involve,,Martinez-Lee,604.76,7.826,Green,0,2005,3.3
+1059,We,Electronics,Martin-Morgan,204.62,4.181,Black,0,2022,4.8
+1060,,Stationery,Burnett-Drake,977.32,9.596,White,,2018,4.0
+1061,Environment,Home & Kitchen,Flores-King,544.99,6.163,Blue,0,2006,4.9
+,Wide,Home & Kitchen,Burnett-Drake,746.66,9.301,White,5,,4.4
+1063,,Home & Kitchen,"Johnson, Cooper and Williams",861.76,8.471,Red,5,2001,
+1064,Now,,Lewis LLC,101.02,6.023,Black,0,2013,3.6
+1065,Simply,Electronics,"Hernandez, Reyes and Stewart",308.91,3.169,Yellow,5,,1.1
+1066,Mrs,Clothing,"Underwood, Nguyen and Pena",515.09,3.757,Black,0,2002,2.2
+1067,Join,Toys,Saunders-Cortez,822.38,9.374,Red,0,2022,1.6
+1068,Past,Stationery,"Yates, Lee and Pena",961.59,1.414,Blue,5,2018,1.8
+1069,Country,Stationery,Haley-Norton,807.08,8.737,Yellow,1,2003,4.4
+1070,Travel,Stationery,Allen Inc,94.37,6.904,Red,2,2018,4.8
+1071,Civil,Books,"Newton, Jimenez and Howard",141.55,2.863,Red,1,2012,3.1
+1072,From,,"Cannon, Sanford and Williams",15.68,8.587,Red,1,2023,
+1073,List,Books,Anderson-Wright,45.93,3.008,Yellow,2,2003,2.9
+1074,Myself,Books,Holt-Robertson,678.11,1.46,Green,3,2016,3.3
+1075,Exactly,Books,Johnson-Macias,320.81,0.812,Red,5,2022,
+1076,Enter,Home & Kitchen,Anderson Ltd,465.05,2.244,Blue,2,2023,4.6
+1077,Skin,Books,Williams-Barr,567.16,8.247,White,2,2016,3.4
+1078,Relationship,Electronics,"Hernandez, Reyes and Stewart",916.29,,Yellow,0,2019,3.4
+1079,Management,Clothing,Alexander-Williamson,699.93,4.816,Blue,1,2023,1.4
+1080,,Stationery,Johnson-Macias,209.97,8.564,White,0,2001,4.4
+1081,Surface,Clothing,Swanson-Wilson,538.0,0.539,White,5,2013,1.1
+1082,On,Books,"Underwood, Nguyen and Pena",229.37,3.929,Green,2,2020,2.9
+1083,Organization,Electronics,Swanson-Wilson,479.86,8.901,Black,5,2023,2.6
+1084,Speak,Toys,"Johnson, Fuller and Curry",674.91,5.454,Black,3,2023,4.2
+1085,Measure,,Ramos-Young,679.42,,Blue,0,2018,1.1
+1086,Local,Books,Garcia Inc,159.8,7.274,Green,2,2023,1.2
+1087,Detail,Books,Allen Inc,948.69,8.057,White,2,2009,2.9
+1088,Large,Stationery,Martin-Morgan,808.49,5.544,Green,1,2003,1.1
+1089,Discover,Toys,Anderson-Wright,918.54,0.554,Blue,1,2007,3.7
+1090,Generation,Electronics,,93.35,,White,2,2001,1.4
+1091,Any,Electronics,Williams-Burns,364.43,5.786,Black,0,2009,
+,Child,Clothing,Ramos-Young,591.72,3.402,Black,3,2014,4.1
+1093,Us,Toys,"Cannon, Sanford and Williams",506.27,5.281,White,0,2022,4.5
+1094,Herself,Books,Ford-Griffith,333.86,5.308,White,5,2018,4.0
+1095,Answer,Home & Kitchen,Allen Inc,2.04,3.561,Green,5,2000,4.7
+1096,Notice,Electronics,Huang Group,924.67,5.551,Black,1,2007,3.8
+1097,Read,Books,Morales LLC,885.42,8.712,Yellow,1,2004,4.1
+1098,Measure,Clothing,Bowman-King,375.51,7.506,Black,5,2005,2.6
+1099,Direction,Stationery,Haley-Norton,389.85,2.49,Red,5,2008,1.4
+1100,News,Clothing,Robinson-Morales,108.83,7.566,Blue,5,,1.7
+1101,History,Stationery,Burnett-Drake,529.71,0.586,Yellow,3,2004,
+1102,Voice,Toys,Flores-King,520.98,2.303,Green,3,2020,2.2
+1103,Impact,Books,Wilson LLC,721.92,2.708,,0,2010,2.5
+1104,House,Books,Robinson-Morales,92.04,9.229,Red,1,2003,2.1
+1105,Compare,Clothing,Vasquez-Huynh,580.64,0.8,Blue,3,2006,3.8
+1106,System,Toys,Jones Ltd,727.01,4.257,,5,2013,2.3
+1107,Hour,Clothing,Lee LLC,936.68,6.375,Black,2,2006,3.3
+1108,History,Stationery,"Harding, Cruz and Porter",947.77,9.709,Blue,0,2013,3.1
+1109,Sound,,"Hahn, Solis and Moore",424.05,7.471,Red,3,2003,3.9
+,Various,Toys,Alvarez PLC,965.98,7.347,White,2,2015,4.7
+1111,Only,Toys,Martinez-Lee,822.96,6.401,Red,,2006,3.8
+1112,High,Stationery,"Johnson, Cooper and Williams",403.13,8.59,White,3,2023,4.8
+1113,Goal,Books,Mccarthy-Shepard,51.14,3.228,Green,2,2003,2.4
+1114,Fish,Electronics,"Yates, Lee and Pena",642.03,4.403,Blue,1,2009,4.3
+1115,System,Electronics,"Richardson, Burton and Lee",273.4,7.658,Green,1,2001,2.2
+1116,Indicate,Clothing,Huang Group,,9.378,Blue,3,2008,2.9
+1117,,Books,Huang Group,381.79,9.123,Black,1,2011,4.5
+1118,Week,Clothing,Johnson-Macias,62.98,2.885,Green,1,2013,4.3
+1119,Save,Clothing,Alexander-Williamson,199.43,7.672,Yellow,0,2006,4.4
+1120,Little,Books,Robinson-Morales,300.4,2.019,Blue,3,2020,3.3
+1121,Lawyer,Books,Wiley PLC,188.16,8.905,Black,3,2000,2.1
+1122,Middle,Clothing,Alvarez PLC,218.36,0.976,Green,5,2007,3.6
+1123,Five,Stationery,Huang Group,505.59,3.094,White,0,2018,4.4
+1124,Rise,Toys,Wiley PLC,261.98,4.316,Yellow,2,2022,4.4
+1125,Figure,Toys,"Johnson, Fuller and Curry",508.2,8.382,Yellow,2,2020,4.3
+1126,Ability,Home & Kitchen,Allen Inc,27.69,2.709,Blue,1,2008,3.7
+1127,Degree,Electronics,Saunders-Cortez,369.81,7.657,Yellow,2,2000,1.4
+1128,Individual,Home & Kitchen,"Garrett, Warren and Malone",261.45,4.547,Red,3,2021,3.3
+1129,Continue,Stationery,"Richards, Gutierrez and Turner",343.8,4.721,Black,0,2013,1.5
+1130,Near,Electronics,Ford-Griffith,326.49,0.612,Red,3,2003,4.5
+1131,Participant,Clothing,,512.07,7.217,Blue,5,2005,3.7
+1132,Air,,Jones Ltd,466.13,6.511,Yellow,3,2021,4.0
+1133,Tonight,Stationery,Alvarez PLC,644.05,4.485,Black,3,2016,2.1
+1134,Your,Clothing,"Newton, Jimenez and Howard",485.64,0.094,Blue,2,2014,4.1
+1135,Value,Electronics,"Newton, Jimenez and Howard",143.21,6.314,Yellow,5,,4.4
+1136,Threat,Clothing,"Garrett, Warren and Malone",796.33,0.609,Green,0,2017,1.0
+1137,Participant,Home & Kitchen,Vasquez-Huynh,467.49,,Red,1,,3.9
+1138,Former,Home & Kitchen,"Cannon, Sanford and Williams",661.72,8.108,Yellow,2,2012,4.0
+1139,Remember,Stationery,"Richards, Gutierrez and Turner",202.26,5.247,Blue,3,2003,1.3
+1140,Charge,Clothing,"King, Arnold and Choi",79.3,,,0,2010,4.1
+1141,Financial,Toys,,438.77,6.412,Black,1,2002,4.7
+1142,Most,Clothing,"Phillips, Williams and Montgomery",558.31,7.499,Black,0,2012,2.8
+1143,Black,Toys,Burnett-Drake,497.59,5.984,White,5,2006,4.0
+1144,Attack,Home & Kitchen,Allen Inc,928.08,4.946,Red,1,2016,4.3
+1145,Policy,Books,"Newton, Jimenez and Howard",713.66,6.513,Yellow,1,2015,4.7
+1146,Environment,Stationery,"Hahn, Solis and Moore",935.63,5.273,White,,2012,3.9
+1147,Feeling,Toys,Flores-King,650.92,6.592,Red,2,2003,3.8
+1148,Camera,Books,Haley-Norton,587.42,7.636,Red,2,2006,4.4
+1149,Yet,Books,Lewis LLC,759.34,5.303,Green,2,2010,1.9
+1150,Free,Toys,Morales LLC,391.03,5.399,Red,,2008,
+1151,Pattern,Clothing,"Garrett, Warren and Malone",587.87,,Red,0,,2.4
+1152,Arrive,Home & Kitchen,Morales LLC,991.72,7.846,Black,0,2004,2.4
+1153,Enjoy,Home & Kitchen,Garcia Inc,813.22,9.598,Green,2,2012,1.5
+1154,Smile,Books,"Underwood, Nguyen and Pena",,4.639,,2,2001,1.1
+1155,Way,Home & Kitchen,Burnett-Drake,96.39,9.464,Red,0,,
+1156,Fly,Home & Kitchen,"Johnson, Cooper and Williams",339.64,4.943,Yellow,5,2005,2.1
+1157,South,Clothing,Huang Group,88.6,6.65,Blue,2,2023,4.3
+1158,Ready,Home & Kitchen,Vasquez-Huynh,524.09,9.44,Red,1,2008,2.1
+1159,Their,Books,"Richardson, Burton and Lee",720.85,5.908,Green,2,2022,3.2
+1160,Suddenly,Electronics,Anderson-Wright,466.52,9.367,Red,3,2021,1.2
+1161,Offer,Home & Kitchen,Morales LLC,173.78,9.828,White,1,,1.4
+1162,Education,Electronics,Williams-Barr,255.56,0.328,Black,3,2021,3.0
+1163,With,Electronics,Alvarez PLC,129.58,,Yellow,,2004,1.4
+1164,Vote,Books,"Harding, Cruz and Porter",610.04,7.659,White,0,2021,3.8
+1165,Professional,Home & Kitchen,Williams-Burns,74.07,9.39,White,3,2004,3.7
+1166,Particular,Home & Kitchen,Huang Group,276.63,0.577,White,5,2004,3.8
+1167,Stop,Home & Kitchen,"Cannon, Sanford and Williams",691.78,9.233,Blue,3,2006,3.2
+1168,Hold,Books,"Hahn, Solis and Moore",,2.996,Green,2,2014,
+1169,Figure,Toys,,127.53,,Yellow,2,2023,3.8
+1170,Up,Home & Kitchen,Williams-Barr,518.73,0.588,Yellow,5,2021,2.9
+,Check,Toys,Mccarthy-Shepard,949.54,3.686,,2,2005,4.7
+1172,Condition,Electronics,Evans-Patrick,533.34,0.174,Black,3,2003,3.4
+1173,Tv,Home & Kitchen,"King, Arnold and Choi",664.42,6.06,Yellow,3,2021,3.1
+1174,Data,Stationery,Mccarthy-Shepard,409.68,4.073,Blue,5,2014,2.4
+1175,,Toys,Vasquez-Huynh,714.05,6.897,,5,2014,2.6
+1176,Accept,Home & Kitchen,Vasquez-Huynh,841.13,7.273,Yellow,,2017,3.5
+1177,Modern,Stationery,Anderson PLC,139.4,5.701,White,3,2014,2.6
+1178,,Toys,"Richards, Gutierrez and Turner",30.69,,Yellow,3,2007,4.3
+1179,Add,Stationery,"Johnson, Fuller and Curry",64.4,4.813,Red,5,2003,1.2
+1180,Radio,Clothing,Carter-Johnson,945.64,8.742,White,3,2004,5.0
+1181,Standard,Toys,Johnson-Macias,769.61,8.042,White,5,,3.8
+1182,,Books,Holt-Robertson,725.7,,Red,3,2016,1.6
+1183,Paper,Home & Kitchen,Mccarthy-Shepard,403.72,1.081,,,2013,4.9
+1184,Newspaper,Stationery,"Johnson, Fuller and Curry",457.54,6.579,Blue,5,2001,1.1
+1185,Several,Stationery,"Garrett, Warren and Malone",354.23,9.263,White,2,2002,3.0
+,Own,Clothing,Mccarthy-Shepard,599.93,3.576,Blue,1,2010,2.8
+1187,People,Stationery,Lee LLC,875.34,8.843,Blue,2,2022,4.6
+1188,Leg,Home & Kitchen,Williams-Burns,97.78,5.884,Blue,5,2011,2.4
+1189,Garden,Books,Anderson Ltd,241.55,3.659,White,3,2016,
+1190,Face,Toys,Johnson-Macias,953.56,8.627,White,2,2012,2.9
+1191,,Home & Kitchen,Carter-Johnson,182.76,0.271,White,3,2002,1.2
+1192,Network,Toys,"Hahn, Solis and Moore",643.39,4.416,Black,2,2019,4.6
+1193,Month,Toys,Haley-Norton,397.39,7.391,White,0,,3.1
+1194,Program,Books,"Hahn, Solis and Moore",598.44,6.244,Yellow,0,2021,4.5
+1195,Station,Electronics,Martin-Morgan,755.8,7.75,Yellow,1,2023,1.9
+1196,Truth,Clothing,Martin-Morgan,154.87,6.166,Green,3,2006,2.7
+1197,Minute,Toys,Anderson Ltd,502.9,7.234,Yellow,0,2016,3.6
+1198,Court,Home & Kitchen,Swanson-Wilson,212.35,2.05,Blue,5,2014,1.7
+1199,Understand,Books,Lee LLC,901.53,4.943,Blue,2,2000,2.7
+1200,Production,Toys,Martin-Morgan,404.04,6.863,,1,2006,3.2
+1201,Nation,Electronics,Morales LLC,712.26,2.949,Black,5,2006,1.9
+,Police,Home & Kitchen,"Richardson, Burton and Lee",464.7,0.815,Green,2,2017,4.1
+1203,Political,Books,"Hahn, Solis and Moore",164.65,2.736,Red,0,2001,1.8
+1204,Fact,Stationery,"Underwood, Nguyen and Pena",236.82,5.837,White,1,2017,4.6
+1205,Great,Electronics,"Richards, Gutierrez and Turner",985.56,4.112,White,0,2002,4.3
+1206,Left,Clothing,Ford-Griffith,984.49,3.417,Red,2,2001,4.4
+1207,Report,Electronics,Evans-Patrick,835.65,7.904,Red,3,2011,1.9
+1208,We,Toys,Swanson-Wilson,727.47,0.574,Blue,5,2018,3.1
+1209,High,Electronics,,464.18,8.905,Black,0,2000,4.7
+1210,Consumer,Toys,Anderson-Wright,886.73,8.746,Red,1,2021,2.6
+1211,Same,Electronics,Carter-Johnson,198.29,4.259,Black,3,,2.4
+1212,,Stationery,Williams-Burns,448.72,2.902,Green,1,2015,4.4
+1213,Forward,Books,Haley-Norton,823.97,7.738,White,5,2007,4.5
+1214,Blue,Clothing,Haley-Norton,249.54,2.875,Green,1,,2.2
+1215,Future,Clothing,Anderson Ltd,552.96,6.232,Red,3,2022,3.6
+1216,Support,Clothing,"Garcia, Dillon and Williams",831.75,2.233,Green,1,2014,3.4
+1217,In,Toys,Navarro-Mitchell,815.35,1.856,White,3,2007,3.4
+1218,Available,Home & Kitchen,Ford-Griffith,98.52,0.069,Blue,2,2009,1.4
+1219,Compare,Toys,Jones Ltd,679.85,3.304,White,5,2009,1.1
+,Good,Toys,"Johnson, Fuller and Curry",748.78,7.282,Green,5,2006,
+1221,Record,Electronics,Garcia Inc,549.11,9.653,Black,1,2019,2.2
+1222,President,Stationery,"Yates, Lee and Pena",719.24,9.678,Black,5,2006,3.5
+1223,Type,Electronics,"Johnson, Fuller and Curry",125.99,2.905,Red,0,2003,2.2
+1224,Suffer,Stationery,Garcia Inc,633.65,6.861,Black,0,2016,2.0
+1225,Beat,Stationery,Swanson-Wilson,,6.054,Black,5,2008,4.3
+1226,Rule,Stationery,,200.04,8.886,Green,3,2006,2.7
+1227,,Books,Carter-Johnson,341.17,9.272,Blue,0,2005,3.7
+1228,Behind,Books,"Cannon, Sanford and Williams",298.51,5.064,Black,3,2014,1.1
+,Father,,Anderson-Wright,723.78,5.905,White,2,2017,3.9
+1230,Movement,Clothing,Nguyen and Sons,610.08,4.644,Yellow,0,2021,3.3
+1231,Our,Electronics,Flores-King,660.12,1.858,Red,,2018,2.1
+1232,Budget,Stationery,Saunders-Cortez,777.52,8.307,Blue,2,2010,4.5
+1233,Follow,Clothing,Ramos-Young,514.89,2.229,Yellow,5,2009,4.4
+1234,Around,Toys,Morales LLC,781.68,1.495,Yellow,5,2019,1.3
+1235,Power,Electronics,Huang Group,192.66,3.414,Yellow,5,2012,
+1236,Around,Electronics,Saunders-Cortez,966.71,8.943,,2,2020,1.3
+1237,Key,Electronics,,638.6,5.628,Blue,3,2013,2.2
+,Store,Toys,"Johnson, Cooper and Williams",50.73,5.529,Green,3,2019,3.9
+1239,Standard,Clothing,Haley-Norton,781.82,6.794,Green,3,2001,1.4
+1240,Blue,Clothing,Carter-Johnson,780.08,7.247,Blue,0,2006,4.2
+1241,Past,Toys,Williams-Barr,108.06,0.552,Blue,1,2021,1.1
+1242,Hair,Books,Flores-King,501.36,9.908,Yellow,3,2005,1.1
+1243,Maybe,Electronics,"Yates, Lee and Pena",368.86,4.081,Yellow,,2021,2.6
+1244,Identify,Home & Kitchen,Wiley PLC,463.99,0.378,Yellow,1,2016,1.4
+1245,Card,Books,"Garrett, Warren and Malone",341.08,5.322,Blue,1,,1.6
+1246,Daughter,Home & Kitchen,,375.39,9.634,Green,2,2019,1.2
+1247,World,Clothing,Williams-Barr,926.57,7.797,Black,0,2003,1.7
+1248,Magazine,Electronics,"Johnson, Cooper and Williams",487.3,6.017,Blue,2,2003,2.2
+1249,Art,Stationery,Williams-Burns,712.55,8.472,Yellow,0,2006,4.7
+1250,Worker,,"Richardson, Burton and Lee",913.8,2.628,Green,5,2014,1.9
+1251,Throw,Toys,"Yates, Lee and Pena",415.79,0.287,White,5,2012,3.8
+1252,Project,Clothing,Haley-Norton,50.95,8.224,Yellow,2,2002,2.2
+1253,Huge,Toys,Flores-King,687.18,2.042,Green,5,2021,3.0
+1254,Decade,Stationery,Saunders-Cortez,259.0,1.982,Red,0,2019,2.1
+1255,Movie,Toys,Allen Inc,121.99,5.642,Black,3,2006,2.7
+,,Electronics,Holt-Robertson,,,Red,1,2019,4.9
+1257,Room,,Huang Group,79.2,0.559,Red,3,,
+1258,Similar,Clothing,Navarro-Mitchell,817.6,4.449,Red,5,2005,4.6
+1259,Former,Toys,"Cannon, Sanford and Williams",7.81,2.819,Green,5,2005,4.6
+1260,Million,Home & Kitchen,"Newton, Jimenez and Howard",,5.832,Black,,2021,1.9
+1261,Especially,Home & Kitchen,Robinson-Morales,,,Blue,3,2023,1.5
+1262,Should,Electronics,Burnett-Drake,61.58,4.012,Red,1,2017,2.0
+1263,Perhaps,Toys,,296.71,2.441,Blue,0,2002,1.7
+1264,Campaign,,"Johnson, Cooper and Williams",157.4,8.666,White,2,2022,3.4
+1265,Respond,Stationery,Evans-Patrick,975.1,1.484,Green,0,2019,4.3
+1266,Federal,Home & Kitchen,Ford-Griffith,31.95,0.249,White,5,2009,3.4
+1267,Yourself,Electronics,Martinez-Lee,173.62,,Black,2,2011,4.5
+,Industry,Clothing,"King, Arnold and Choi",201.19,0.206,Black,5,,2.6
+1269,Fund,Clothing,Garcia Inc,21.7,,Yellow,0,2007,4.3
+1270,Wall,Toys,Vasquez-Huynh,203.68,3.144,Yellow,2,2002,3.0
+1271,Partner,Toys,"Yates, Lee and Pena",197.58,5.258,Yellow,3,,2.6
+1272,Section,Toys,Haley-Norton,771.14,6.048,White,0,2004,3.7
+1273,Who,Toys,"Harding, Cruz and Porter",225.75,9.078,Red,3,2011,1.9
+1274,Government,Clothing,"Johnson, Cooper and Williams",897.15,4.839,Yellow,1,2016,2.0
+1275,Least,Clothing,Ford-Griffith,844.14,8.598,Yellow,3,2013,2.3
+1276,Bank,Toys,"Richardson, Burton and Lee",158.09,8.389,Green,2,2021,4.3
+1277,Agency,Toys,Anderson PLC,211.2,1.304,,,2022,
+1278,Cultural,Electronics,"Johnson, Cooper and Williams",853.94,0.547,White,2,2011,4.8
+1279,Degree,Stationery,Martinez-Lee,19.84,6.962,Black,1,2006,2.8
+1280,,Electronics,"Underwood, Nguyen and Pena",,3.363,Green,5,2018,3.1
+1281,Green,Clothing,Carter-Johnson,20.99,3.244,Red,5,2015,2.2
+1282,Old,Toys,Lewis LLC,434.34,0.096,Red,0,2015,1.7
+1283,Today,Books,Wiley PLC,747.79,9.443,Green,2,2007,1.2
+1284,Build,Stationery,"Phillips, Williams and Montgomery",377.14,8.023,Yellow,5,2014,2.5
+1285,Amount,Clothing,Martinez-Lee,794.81,0.878,Red,0,2010,2.5
+1286,Direction,Clothing,Burnett-Drake,631.01,5.055,White,1,2004,1.2
+,Security,Clothing,,210.97,2.558,Yellow,2,2013,4.7
+1288,Compare,Home & Kitchen,Burnett-Drake,636.62,4.093,Black,1,2003,4.8
+1289,Director,Clothing,Vasquez-Huynh,848.23,4.645,Black,0,2005,2.8
+1290,However,,Haley-Norton,890.8,9.929,Yellow,5,2019,4.8
+1291,Fire,,Robinson-Morales,274.56,5.959,White,3,2002,3.8
+1292,Computer,Electronics,Ford-Griffith,579.76,7.301,Green,0,2017,4.6
+1293,Project,Toys,Mccarthy-Shepard,474.93,7.162,Yellow,2,2008,
+1294,Instead,Home & Kitchen,"Johnson, Cooper and Williams",406.35,3.272,Green,0,2012,4.7
+1295,Large,Clothing,Burnett-Drake,389.13,9.457,,,2003,4.9
+1296,Mission,Home & Kitchen,Ford-Griffith,889.49,9.965,Black,1,2015,4.0
+1297,Every,Books,Carter-Johnson,805.01,8.993,Red,0,2003,2.1
+,About,Clothing,"Hernandez, Reyes and Stewart",452.49,4.418,Blue,0,2007,1.1
+1299,Gas,Stationery,"Yates, Lee and Pena",12.05,3.789,Blue,,2010,1.2
+1300,Affect,Electronics,Alvarez PLC,509.19,9.614,Black,3,2001,4.7
+1301,Change,Toys,Flores-King,135.8,3.264,Blue,0,2009,4.5
+1302,After,Toys,"Underwood, Nguyen and Pena",171.51,4.814,White,2,2019,3.7
+1303,Foot,Toys,Wilson LLC,314.44,1.761,Green,5,2016,4.3
+1304,Near,Stationery,Williams-Barr,952.12,8.549,Yellow,5,2004,4.2
+1305,Himself,Books,"Yates, Lee and Pena",450.38,2.356,Yellow,0,2002,4.2
+1306,Its,Toys,"King, Arnold and Choi",,9.649,Red,5,2005,2.2
+1307,Road,Stationery,Wilson LLC,113.05,3.169,Yellow,0,2011,2.0
+1308,Place,Stationery,Robinson-Morales,818.81,5.015,White,3,2001,3.0
+,Candidate,Stationery,"Harding, Cruz and Porter",,8.501,Green,1,2002,4.7
+1310,Agree,Toys,Nguyen and Sons,619.3,6.387,Black,3,2002,3.2
+1311,,Electronics,"Garcia, Dillon and Williams",665.93,0.756,Black,3,2010,2.2
+1312,Bill,,Anderson-Wright,894.26,5.716,Black,0,2009,2.6
+1313,Company,Stationery,"Underwood, Nguyen and Pena",53.43,5.325,Black,0,2006,2.5
+1314,Scientist,Electronics,Martin-Morgan,581.01,3.669,Green,2,2007,2.0
+1315,Hospital,Electronics,"Cannon, Sanford and Williams",453.17,9.939,White,1,2023,3.9
+1316,Whether,Stationery,Morales LLC,331.67,,Green,0,2006,4.5
+1317,Score,Stationery,Alexander-Williamson,340.29,2.538,Black,3,2021,3.8
+1318,Source,Electronics,Vasquez-Huynh,724.87,7.311,Yellow,5,2005,3.0
+1319,Hear,Home & Kitchen,Haley-Norton,465.0,9.699,Black,3,2004,2.4
+1320,Democrat,Toys,Lee LLC,161.82,,Green,1,2023,4.8
+1321,Fish,Stationery,Martin-Morgan,614.82,9.171,Red,0,2013,1.3
+1322,Establish,Electronics,Bowman-King,,6.818,Black,,2001,4.6
+1323,Relate,,Ramos-Young,333.19,0.721,Blue,1,2022,2.7
+1324,Spend,Electronics,Garcia Inc,163.59,4.629,Black,0,2010,2.0
+1325,Citizen,Books,Vasquez-Huynh,581.2,7.635,Yellow,3,2019,3.2
+1326,Then,Clothing,"Newton, Jimenez and Howard",665.03,3.293,,5,2007,3.3
+1327,Few,Home & Kitchen,"Underwood, Nguyen and Pena",689.81,9.275,Yellow,,2015,1.0
+1328,Anything,Toys,Martin-Morgan,24.92,3.767,Blue,0,2016,4.3
+1329,Unit,Home & Kitchen,Wilson LLC,704.1,9.886,Black,2,2003,3.1
+1330,Including,Clothing,Lewis LLC,,5.215,Yellow,5,2018,4.1
+1331,Admit,Stationery,Allen Inc,564.29,3.536,Black,2,2018,1.8
+1332,Write,Toys,"Johnson, Cooper and Williams",859.25,8.353,Black,0,2013,4.2
+,Represent,Stationery,Lewis LLC,981.13,1.783,White,5,2023,2.4
+1334,,Books,Carter-Johnson,107.39,2.674,Black,3,2009,1.8
+1335,Land,Clothing,"Hernandez, Reyes and Stewart",735.81,1.766,Black,1,2015,2.0
+1336,Method,Toys,,292.12,7.327,Blue,5,2003,3.1
+1337,Not,Home & Kitchen,"Garcia, Dillon and Williams",280.72,2.838,Green,3,2019,
+1338,Energy,Books,Flores-King,264.14,0.35,Blue,0,2015,2.3
+1339,Administration,Electronics,,910.26,6.127,Black,0,2013,2.3
+1340,Tough,Clothing,"King, Arnold and Choi",631.64,0.125,Red,5,2002,4.6
+1341,Up,Books,"Johnson, Cooper and Williams",,3.635,Red,1,2017,3.2
+1342,No,Books,"Cannon, Sanford and Williams",944.06,5.753,Black,2,2022,1.6
+1343,Little,Electronics,Evans-Patrick,337.29,0.888,Black,2,2005,3.9
+1344,Court,Books,Vasquez-Huynh,935.48,4.313,,5,2022,
+1345,Way,Toys,Bowman-King,251.93,8.271,White,0,,1.6
+1346,Word,Books,Ramos-Young,881.22,2.926,White,5,2010,4.7
+1347,Product,Books,"Richardson, Burton and Lee",977.11,1.52,Red,2,2010,1.2
+,Mrs,Books,"Richardson, Burton and Lee",564.44,8.149,Green,5,2007,1.3
+1349,Team,Books,Holt-Robertson,257.43,9.925,Green,3,2022,2.5
+1350,Break,Books,Haley-Norton,720.14,5.692,Green,0,2017,2.5
+1351,Hour,Books,Navarro-Mitchell,,5.969,Yellow,2,2022,2.3
+,Technology,Clothing,Martin-Morgan,490.66,2.386,Green,3,2022,1.5
+1353,Maybe,Electronics,,273.91,9.365,Black,5,2004,
+1354,Her,Electronics,Lewis LLC,348.1,9.617,Black,0,2004,3.0
+1355,Pick,Home & Kitchen,Mccarthy-Shepard,217.5,8.953,Green,0,2019,4.2
+1356,Least,Toys,Williams-Burns,756.87,7.951,Yellow,2,2002,4.4
+1357,Day,Stationery,"Cannon, Sanford and Williams",913.89,1.469,Yellow,5,2003,1.7
+1358,Here,Home & Kitchen,Wilson LLC,643.13,4.189,White,3,2014,2.9
+1359,Visit,Books,Holt-Robertson,906.37,5.763,White,,2014,
+1360,Another,Stationery,Williams-Barr,954.91,5.677,Black,5,2004,
+1361,Case,Home & Kitchen,Wilson LLC,760.65,2.099,White,2,2016,3.0
+1362,Before,Home & Kitchen,"Garcia, Dillon and Williams",521.56,0.88,Green,5,2000,2.8
+1363,Life,Electronics,"Underwood, Nguyen and Pena",783.68,2.448,Yellow,5,2006,2.1
+1364,Everyone,Toys,Haley-Norton,743.13,4.595,White,1,2023,4.6
+1365,Court,Stationery,"Garcia, Dillon and Williams",,,Green,5,2012,
+1366,Spring,Home & Kitchen,Martin-Morgan,710.58,4.816,Blue,1,2000,3.1
+1367,Front,Books,Morales LLC,672.12,2.618,Yellow,5,2009,3.0
+1368,Hot,,"Garrett, Warren and Malone",,6.686,Yellow,0,2011,3.6
+1369,Beautiful,Books,"Garcia, Dillon and Williams",999.6,3.051,Black,1,2010,4.3
+1370,Air,Electronics,Morales LLC,968.24,,Blue,1,2019,1.9
+1371,Usually,Clothing,Jones Ltd,198.94,5.252,White,0,2007,1.5
+1372,Stock,Books,Nguyen and Sons,91.73,4.158,White,1,,3.3
+1373,Practice,Toys,"Phillips, Williams and Montgomery",538.37,0.942,Black,2,2007,4.3
+1374,Coach,,,135.38,0.854,Yellow,3,2019,1.7
+1375,,Stationery,Ramos-Young,908.63,5.437,Blue,5,2009,2.9
+1376,Memory,Toys,Williams-Burns,556.74,3.737,Black,2,2006,2.3
+1377,Along,Books,Ramos-Young,938.93,8.449,White,2,2010,4.1
+1378,Thing,Stationery,Swanson-Wilson,50.89,4.879,Black,0,2009,1.1
+1379,Drop,Stationery,Allen Inc,126.5,2.175,Yellow,1,2015,1.1
+1380,Baby,Clothing,"Johnson, Fuller and Curry",236.9,5.445,Black,1,2003,3.9
+1381,By,Electronics,"Garcia, Dillon and Williams",346.38,9.651,Green,5,2023,2.4
+1382,Without,Clothing,Garcia Inc,217.04,8.249,Green,5,2016,1.9
+1383,Break,Books,Anderson-Wright,9.91,0.536,Black,3,2007,1.7
+1384,Leave,Home & Kitchen,"Richards, Gutierrez and Turner",981.46,5.984,Green,0,2005,3.2
+1385,Direction,,Lee LLC,30.1,4.485,Red,2,,2.4
+1386,Attention,Books,Johnson-Macias,688.16,7.371,Green,,2002,4.4
+1387,List,Home & Kitchen,Garcia Inc,117.83,5.57,Green,1,2000,3.3
+1388,Than,Toys,Ford-Griffith,536.39,4.085,White,0,2014,1.4
+1389,Green,Stationery,"Richards, Gutierrez and Turner",,2.851,Red,0,2022,3.5
+1390,Spend,Electronics,Navarro-Mitchell,69.66,9.251,Red,2,2015,3.0
+1391,Production,Home & Kitchen,Nguyen and Sons,690.45,4.83,White,0,2017,3.1
+1392,Spend,Stationery,Haley-Norton,722.72,1.902,Blue,,,4.0
+1393,Cultural,Clothing,"Johnson, Fuller and Curry",805.42,3.639,Blue,0,2015,4.1
+1394,Brother,Home & Kitchen,"Garrett, Warren and Malone",120.16,2.844,Green,3,2000,1.7
+1395,Civil,Toys,"Garcia, Dillon and Williams",682.73,5.091,Yellow,2,2014,4.4
+1396,Member,Clothing,Swanson-Wilson,163.17,4.564,Blue,5,2012,1.6
+1397,Allow,Books,Carter-Johnson,348.2,4.37,Blue,5,2020,2.0
+1398,Region,Stationery,"Richards, Gutierrez and Turner",721.01,8.807,Green,,2009,4.0
+1399,Whatever,Clothing,Mccarthy-Shepard,384.02,7.921,,3,2014,3.6
+,Catch,Toys,Haley-Norton,694.28,0.555,White,2,2021,2.5
+1401,,Stationery,Holt-Robertson,787.09,1.81,Yellow,3,2009,3.0
+1402,Itself,Books,"Johnson, Cooper and Williams",648.24,,Green,0,2013,3.1
+1403,World,Home & Kitchen,,429.18,9.665,Black,2,2015,1.3
+1404,Skin,Clothing,Ramos-Young,376.91,4.506,Black,3,2020,3.9
+1405,Shoulder,Home & Kitchen,Garcia Inc,364.87,3.917,Red,3,2014,1.5
+1406,Reflect,Home & Kitchen,Alexander-Williamson,773.38,9.971,Green,5,2010,2.8
+1407,Part,Clothing,Ramos-Young,488.93,6.254,Yellow,2,2017,2.4
+1408,Approach,,Lewis LLC,624.0,8.029,Blue,0,2006,4.0
+1409,Instead,Home & Kitchen,"Phillips, Williams and Montgomery",551.22,2.607,Blue,1,2009,1.9
+1410,Far,Electronics,Martinez-Lee,7.63,1.574,Green,5,2023,3.4
+1411,Thing,Books,Evans-Patrick,250.0,7.875,Yellow,3,2005,1.1
+,Main,Electronics,"Cannon, Sanford and Williams",,8.672,White,3,2016,1.6
+1413,Foreign,Stationery,Anderson Ltd,571.64,8.097,Yellow,,,2.3
+1414,Those,Books,Lewis LLC,608.56,4.143,Black,3,,3.4
+1415,Identify,Stationery,Navarro-Mitchell,390.26,1.234,Green,1,2014,4.9
+1416,Process,Clothing,"Garcia, Dillon and Williams",771.35,9.562,Red,0,2004,2.6
+,Coach,Toys,Anderson Ltd,198.26,2.036,Green,2,2005,4.4
+1418,Letter,Clothing,"Richardson, Burton and Lee",904.22,2.845,Green,5,2008,1.2
+1419,Compare,Stationery,"Newton, Jimenez and Howard",767.69,6.959,Red,5,2000,3.4
+1420,Hair,Books,Alvarez PLC,199.79,1.463,Yellow,0,2003,1.9
+1421,Check,Clothing,Ramos-Young,18.27,7.892,White,1,2016,3.8
+1422,Edge,Toys,Wilson LLC,126.91,3.39,White,1,2020,4.4
+1423,Play,,,584.56,3.31,Black,0,2004,2.5
+1424,Top,Home & Kitchen,"Johnson, Cooper and Williams",341.11,7.388,Yellow,5,2010,2.8
+1425,,Toys,Ford-Griffith,152.03,0.425,Green,0,2002,3.6
+1426,,Toys,Haley-Norton,83.48,7.532,Green,0,2021,4.4
+1427,Over,Electronics,"King, Arnold and Choi",195.67,2.096,Red,0,2013,1.5
+1428,Thank,Stationery,Allen Inc,118.69,9.263,Red,2,2015,4.9
+1429,Scientist,Home & Kitchen,Anderson PLC,265.26,6.366,Blue,5,2002,4.0
+1430,Woman,Clothing,Carter-Johnson,135.93,2.181,White,1,2011,2.5
+1431,Evening,Books,"Underwood, Nguyen and Pena",48.83,9.646,,2,2006,2.2
+1432,Else,Toys,Mccarthy-Shepard,503.43,,White,3,2004,4.2
+1433,Act,Stationery,Haley-Norton,259.41,3.447,Red,2,2016,4.0
+1434,Ago,Books,"Hahn, Solis and Moore",30.57,5.85,Red,5,2017,1.2
+1435,Pretty,Books,Saunders-Cortez,298.54,5.754,Yellow,3,2016,4.9
+1436,Hope,Clothing,Ramos-Young,,7.2,Red,5,2015,4.5
+1437,Goal,Clothing,Mccarthy-Shepard,352.53,8.054,Blue,5,2008,2.1
+1438,Mother,Clothing,Alvarez PLC,435.85,8.74,White,5,2009,3.6
+1439,Deep,Clothing,Burnett-Drake,977.7,,,5,2003,1.9
+1440,Above,Toys,Holt-Robertson,85.12,2.065,White,1,2009,4.7
+1441,Usually,Electronics,,145.66,9.416,Green,1,2000,2.6
+1442,Single,Books,"Hahn, Solis and Moore",492.45,3.116,White,0,2009,1.8
+1443,Full,Home & Kitchen,Robinson-Morales,784.0,1.272,Red,3,2000,3.4
+1444,Price,Electronics,Wilson LLC,130.63,8.818,Black,2,2017,4.2
+1445,Exactly,Stationery,Morales LLC,515.62,3.551,Blue,5,2007,1.4
+1446,Upon,,Allen Inc,324.95,4.701,Red,3,2010,3.8
+1447,Do,Toys,"Underwood, Nguyen and Pena",791.82,5.122,Blue,,2015,2.4
+1448,Poor,Clothing,Allen Inc,603.01,1.235,Black,0,2012,
+1449,Family,Electronics,"Garrett, Warren and Malone",465.94,0.067,White,3,2005,1.4
+1450,Whether,Home & Kitchen,,645.21,8.391,Red,3,2003,2.6
+1451,Democratic,Electronics,Anderson Ltd,707.11,2.488,Red,5,2000,5.0
+1452,Want,Books,Allen Inc,,9.866,Green,,2019,4.6
+1453,Century,Toys,Huang Group,618.55,1.563,Blue,5,2021,2.1
+1454,Example,Toys,"Garrett, Warren and Malone",517.64,7.714,Green,3,2023,1.6
+1455,Visit,Toys,Anderson-Wright,851.63,1.464,Red,5,2022,3.5
+1456,Time,Stationery,Mccarthy-Shepard,919.45,3.104,Red,1,2012,1.8
+1457,Indicate,Electronics,,969.64,7.876,Red,3,2005,3.5
+1458,Run,Electronics,,499.24,7.279,Yellow,2,,2.7
+,Course,Toys,Vasquez-Huynh,225.61,8.207,Black,0,2008,2.6
+1460,,Home & Kitchen,Williams-Burns,918.29,7.073,,2,2015,1.7
+1461,Attention,Electronics,Ford-Griffith,660.98,3.905,Red,2,2004,1.0
+1462,International,Electronics,Alexander-Williamson,458.02,2.375,Green,2,2018,1.4
+1463,Who,,Williams-Burns,827.32,8.09,White,5,2018,1.1
+1464,Put,Home & Kitchen,Ford-Griffith,348.36,6.349,Red,1,2023,4.1
+1465,Billion,Books,Wiley PLC,949.39,0.225,White,5,2001,4.8
+1466,Opportunity,Electronics,Evans-Patrick,200.99,2.461,White,0,2004,1.6
+1467,Raise,Books,"Richards, Gutierrez and Turner",998.8,4.034,Black,0,2017,1.0
+1468,Again,,Huang Group,144.74,4.23,Green,2,2011,4.3
+1469,Control,Toys,Navarro-Mitchell,139.88,8.85,Blue,2,2000,3.0
+1470,Western,Home & Kitchen,"Garrett, Warren and Malone",591.62,6.63,White,3,2017,3.6
+1471,Walk,Home & Kitchen,Flores-King,56.58,6.907,White,2,2008,4.8
+1472,Might,Books,,864.68,3.771,Black,5,2005,2.2
+1473,Figure,Books,Lee LLC,397.73,0.388,Red,0,2004,2.5
+1474,Sister,Electronics,Saunders-Cortez,706.85,4.582,Green,0,2019,3.3
+1475,Son,Clothing,Wilson LLC,892.38,0.109,Yellow,0,2004,3.8
+1476,Provide,Home & Kitchen,"Phillips, Williams and Montgomery",900.53,1.929,White,1,2009,4.3
+1477,Year,Home & Kitchen,Alvarez PLC,623.57,1.369,Black,1,2015,1.3
+1478,Similar,Stationery,Evans-Patrick,287.54,8.731,Red,0,2000,1.3
+1479,Lead,Home & Kitchen,,983.42,9.083,,5,2004,3.9
+1480,Trial,Clothing,"Newton, Jimenez and Howard",210.92,1.328,Blue,1,2006,1.8
+1481,None,Clothing,Wiley PLC,79.01,3.723,Black,3,2002,3.9
+1482,Structure,Toys,Carter-Johnson,549.94,9.251,Red,0,2013,3.9
+1483,Series,Stationery,Navarro-Mitchell,781.54,1.395,Black,1,2002,1.5
+1484,Let,Clothing,"Harding, Cruz and Porter",147.65,9.884,Green,1,2003,4.1
+1485,Hard,Clothing,Lee LLC,638.32,4.529,Black,2,,2.9
+1486,Sometimes,Home & Kitchen,Garcia Inc,591.43,3.293,White,0,2006,4.6
+1487,Necessary,Toys,Carter-Johnson,805.47,2.466,Red,3,2015,
+1488,Stuff,Home & Kitchen,Swanson-Wilson,372.44,,White,2,2004,4.6
+1489,Simple,Electronics,Ford-Griffith,125.21,7.741,Black,1,2016,2.3
+1490,Necessary,Electronics,"Phillips, Williams and Montgomery",583.83,,,5,2003,4.0
+1491,Five,Toys,Haley-Norton,,7.668,Red,,2009,2.7
+1492,Up,Home & Kitchen,"Garrett, Warren and Malone",4.32,5.799,White,3,2003,5.0
+1493,Exist,Toys,"Yates, Lee and Pena",890.56,7.05,,,2015,4.5
+,,Home & Kitchen,Martinez-Lee,896.05,1.904,Green,2,2010,4.6
+1495,Trial,Toys,Allen Inc,386.72,7.282,Red,5,2021,3.5
+1496,Hair,Clothing,Robinson-Morales,84.85,3.557,White,3,2002,4.3
+1497,,Electronics,Williams-Burns,697.49,6.901,Green,3,2009,3.3
+1498,Me,Clothing,Alexander-Williamson,167.41,1.509,Yellow,1,2009,3.4
+1499,We,Clothing,Carter-Johnson,576.81,5.728,White,3,2013,
+1340,Tough,Clothing,"King, Arnold and Choi",631.64,0.125,Red,5,2002,4.6
+1444,Price,Electronics,Wilson LLC,130.63,8.818,Black,2,2017,4.2
+1499,We,Clothing,Carter-Johnson,576.81,5.728,White,3,2013,
+1344,Court,Books,Vasquez-Huynh,935.48,4.313,,5,2022,
+1187,People,Stationery,Lee LLC,875.34,8.843,Blue,2,2022,4.6
+1384,Leave,Home & Kitchen,"Richards, Gutierrez and Turner",981.46,5.984,Green,0,2005,3.2
+1026,Beat,Home & Kitchen,Garcia Inc,287.87,4.158,Yellow,0,2014,2.1
+1390,Spend,Electronics,Navarro-Mitchell,69.66,9.251,Red,2,2015,3.0
+1402,Itself,Books,"Johnson, Cooper and Williams",648.24,,Green,0,2013,3.1
+,Check,Toys,Mccarthy-Shepard,949.54,3.686,,2,2005,4.7
