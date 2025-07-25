@@ -113,6 +113,8 @@ cleaned_items_df.write.mode("overwrite").option("header", "true").csv("s3://reta
 
 print('Total Records before cleaning: ', cities_df.count())
 
+cleaned_items_df.write.mode('overwrite').partitionBy("category").format('parquet').save("s3://retail-inventory-capstone-bucket/Gold/items/")
+
 ## CLEANING CITIES DF
 
 from pyspark.sql.functions import *
