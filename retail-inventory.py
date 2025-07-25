@@ -231,8 +231,7 @@ item_discounts.show()
 
 
 #  10. Revenue Trend by Category Over Time
-trend_category = transactions_items.withColumn("month", date_format(to_date("transaction_date"), "yyyy-MM")) \
-    .groupBy("month", "category").agg(sum("price_usd").alias("total_sum")).orderBy("month", "category")
+trend_category = transactions_items.withColumn("month", date_format(to_date("transaction_date"), "yyyy-MM")).groupBy("month", "category").agg(sum("price_usd").alias("total_sum")).orderBy("month", "category")
 trend_category.show()
 
 
@@ -253,8 +252,7 @@ avg_price_category.show()
 
 
 #  14. Items with Highest Revenue per Unit Sold
-rev_per_unit = transactions_gold_df.groupBy("item_id").agg((sum("price")/sum("quantity")).alias("rev_per_unit")) \
-    .orderBy(col("rev_per_unit").desc())
+rev_per_unit = transactions_gold_df.groupBy("item_id").agg((sum("price")/sum("quantity")).alias("rev_per_unit")).orderBy(col("rev_per_unit").desc())
 rev_per_unit.show()
 
 
