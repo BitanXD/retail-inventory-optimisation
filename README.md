@@ -1,210 +1,238 @@
-Agile Sprint – Retail Inventory Forecasting Using PySpark + Hive on EMR
-Scrum Theme: Optimize and automate retail inventory forecasting using scalable batch pipelines on EMR & Hive, under an 8-hour Agile Scrum sprint per day (5 total sprints).
 
-Dataset Overview
-Parameter
-Description
-Dataset Files
-transactions.csv (2.2M rows), items.csv, cities.json
-Format
-CSV (for transactions, items), JSON (for cities metadata)
-Data Quality
-Contains nulls, duplicates, anomalies, and minor outliers
-Volume
-~2.5M records total (retail domain)
-
-
- Sprint 0: Infrastructure & Security Foundation Setup (DevOps Support)
- Sprint Tasks:
-Provision EMR Cluster (6 nodes – m5.xlarge, 1 master + 5 core)
-
-
-Configure:
-
-
-Subnet, VPC, NAT Gateway
-
-
-Auto-scaling policy
-
-
-IAM Role with S3 & CloudWatch full access
-
-
-Key pair access for SSH
-
-
-S3 Data Lake Setup:
-
-
-Buckets: retail-capstone/raw/, staging/, curated/
-
-
-Enable:
-
-
-Kerberos authentication
-
-
-CloudWatch EMR Logging
-
-
-Hive Metastore + Spark History Server
-
-
-Daily snapshot on master + checkpointing
-
-
-   Deliverable: CloudFormation template or Terraform script (optional), cluster logs screenshot, network diagram
-
- Sprint 1: Raw Zone Ingestion & Schema Registration
- Sprint Tasks:
-Upload raw files to s3://retail-capstone/raw/
-
-
-Read CSVs using PySpark with explicit schema and delimiter handling
-
-
-Register Hive external tables on raw S3 paths:
-
-
-transactions_raw, items_raw, cities_raw
-
-
-Perform schema validation using Spark DataFrame functions
-
-
-   Deliverable: Hive table DDLs, Spark script, schema report
-
- Sprint 2: Data Quality and Cleansing Pipeline – PySpark
- Sprint Tasks:
-Identify:
-
-
-Nulls, Duplicates (on InvoiceID, ItemID), Inconsistent Pricing
-
-
-Outliers in Quantity, UnitPrice via percentiles
-
-
-Cleanse Data:
-
-
-Fill missing cities from JSON
-
-
-Remove invalid/zero-priced transactions
-
-
-Add columns:
-
-
-WeekNumber, Quarter, IsHighValueOrder
-
-
-Save to s3://retail-capstone/staging/ in partitioned Parquet format (Year-Month)
-
-
-Register transactions_cleaned Hive table
-
-
-   Deliverable: Cleansing PySpark script, data quality report, staging table DDL
-
- Sprint 3: Business Logic & Metrics Aggregation – Feature Engineering
- Sprint Tasks:
-Metrics Calculated:
-
-
-Revenue by Month, City, SKU
-
-
-Average Quantity per City
-
-
-Top 5 selling items per region
-
-
-Save aggregates to curated/analytics/
-
-
-Create inventory_metrics Hive table
-
-
-JSON city metadata joined to transactions
-
-
-   Deliverable: Aggregation script, metrics snapshot, Hive analytics schema
-
- Sprint 4: Airflow-based Workflow Orchestration
- Sprint Tasks:
-Setup Airflow DAG with steps:
-
-
-Ingest → Cleanse → Aggregate → Verify Output
-
-
-Use:
-
-
-S3KeySensor to detect new uploads
-
-
-SparkSubmitOperator for Spark jobs
-
-
-Custom PythonOperator for metric validation
-
-
-Set retries, SLA, email-on-failure
-
-
-Schedule: Daily at 1 AM UTC
-
-
-   Deliverable: DAG script, screenshots, task logs, Airflow UI proof
-
- Sprint 5: Business Insight Extraction and Visualization
- Sprint Tasks:
-KPIs:
-
-
-Monthly Revenue Trends
-
-
-Region-wise Item Shortage
-
-
-Top 10 profitable SKUs
-
-
-Export as JSON/CSV
-
-
-Optionally use:
-
-
-Superset, Quicksight, or Excel
-
-
-Prepare demo dashboards for stakeholders
-
-
-   Deliverable: KPI sheet, visualization screenshots, insights document
-
- Final Sprint Review – Project Handoff Artifacts
-Artifact
-Details
-   EMR Infra Logs + Diagram
-Cluster setup proof, VPC/network setup diagram
-   PySpark Scripts
-Ingestion, Cleansing, Aggregation
-   Hive Schema
-Raw, Staging, Curated tables
-   Airflow DAG
-Scheduled batch job (with parameters)
-   KPI Dashboard (optional)
-CSV/JSON Export or visualization link
-   Agile Artifacts
-Scrum Board, Burndown Chart, Sprint Retrospective
-
-
+# Agile Sprint – Retail Inventory Forecasting using PySpark & Hive on EMR
+
+## 📌 Project Overview
+This project demonstrates an **end-to-end batch data engineering pipeline** for **Retail Inventory Forecasting**, built using **PySpark and Hive on AWS EMR**, executed through **Agile Scrum methodology**.
+
+- **Sprint Cadence:** 8 hours/day  
+- **Total Sprints:** 5 (+ Sprint 0 – Infra Setup)  
+- **Core Stack:** PySpark, Hive, AWS EMR, S3, Airflow  
+- **Goal:** Optimize and automate retail inventory forecasting using scalable batch pipelines.
+
+---
+
+## 🗂 Dataset Overview
+
+| Parameter | Description |
+|---------|-------------|
+| Dataset Files | `transactions.csv`, `items.csv`, `cities.json` |
+| Total Size | ~2.5M records |
+| Transactions Volume | ~2.2M rows |
+| Formats | CSV (transactions, items), JSON (cities metadata) |
+| Data Quality | Nulls, duplicates, anomalies, minor outliers |
+| Domain | Retail Analytics |
+
+---
+
+## 🏗 Architecture Highlights
+
+- **Data Lake:** Amazon S3 (Raw → Staging → Curated)
+- **Processing Engine:** Apache Spark (PySpark) on EMR
+- **Metadata:** Hive Metastore
+- **Orchestration:** Apache Airflow
+- **Monitoring & Security:** IAM, Kerberos, CloudWatch
+
+---
+
+## 🔁 Agile Sprint Breakdown
+
+---
+
+## 🟦 Sprint 0 – Infrastructure & Security Foundation (DevOps)
+
+### Objectives
+Provision a secure, scalable EMR environment with fault tolerance and observability.
+
+### Sprint Tasks
+- Provision EMR Cluster:
+  - 6 nodes (`m5.xlarge`)
+  - 1 Master + 5 Core nodes
+- Configure:
+  - VPC, Subnet, NAT Gateway
+  - Auto-scaling policy
+  - IAM Role (S3 + CloudWatch full access)
+  - SSH Key pair access
+- S3 Data Lake Setup:
+  - `s3://retail-capstone/raw/`
+  - `s3://retail-capstone/staging/`
+  - `s3://retail-capstone/curated/`
+- Enable:
+  - Kerberos authentication
+  - CloudWatch EMR logging
+  - Hive Metastore
+  - Spark History Server
+- Fault Tolerance:
+  - Daily snapshot on master
+  - Spark checkpointing
+
+### Deliverables
+- ✔ CloudFormation / Terraform script (optional)
+- ✔ EMR logs screenshot
+- ✔ VPC & network architecture diagram
+
+---
+
+## 🟩 Sprint 1 – Raw Zone Ingestion & Schema Registration
+
+### Objectives
+Land raw data into S3 and register schema-driven Hive tables.
+
+### Sprint Tasks
+- Upload datasets to: s3://retail-capstone/raw/
+
+- Read CSV files using PySpark:
+- Explicit schema definitions
+- Custom delimiter handling
+- Register Hive External Tables:
+- `transactions_raw`
+- `items_raw`
+- `cities_raw`
+- Perform schema validation using Spark DataFrame APIs
+
+### Deliverables
+- ✔ Hive external table DDLs
+- ✔ PySpark ingestion script
+- ✔ Schema validation report
+
+---
+
+## 🟨 Sprint 2 – Data Quality & Cleansing Pipeline
+
+### Objectives
+Improve data reliability through cleansing and enrichment.
+
+### Sprint Tasks
+**Data Quality Checks**
+- Null detection
+- Duplicate detection (InvoiceID, ItemID)
+- Inconsistent pricing
+- Outliers in:
+- Quantity
+- UnitPrice (percentile-based)
+
+**Cleansing Logic**
+- Fill missing city values using JSON metadata
+- Remove zero or negative-priced transactions
+
+**Feature Engineering**
+- Add derived columns:
+- `WeekNumber`
+- `Quarter`
+- `IsHighValueOrder`
+
+**Storage**
+- Write cleaned data as **Parquet**
+- Partitioned by `Year-Month`
+- Save to: s3://retail-capstone/staging/
+
+- **Metadata**
+- Register `transactions_cleaned` Hive table
+
+### Deliverables
+- ✔ PySpark cleansing script
+- ✔ Data quality metrics report
+- ✔ Staging Hive table DDL
+
+---
+
+## 🟧 Sprint 3 – Business Logic & Metrics Aggregation
+
+### Objectives
+Generate analytical features and metrics for inventory forecasting.
+
+### Metrics Computed
+- Revenue by:
+- Month
+- City
+- SKU
+- Average quantity sold per city
+- Top 5 selling items per region
+
+### Sprint Tasks
+- Join transaction data with city metadata
+- Aggregate results and store in: s3://retail-capstone/curated/analytics/
+
+- - Create Hive analytics table:
+- `inventory_metrics`
+
+### Deliverables
+- ✔ Aggregation PySpark script
+- ✔ Sample metrics snapshots
+- ✔ Curated Hive schema
+
+---
+
+## 🟥 Sprint 4 – Workflow Orchestration using Airflow
+
+### Objectives
+Automate the entire batch pipeline with monitoring and alerts.
+
+### DAG Workflow
+1. Ingest
+2. Cleanse
+3. Aggregate
+4. Validate Output
+
+### Airflow Components
+- `S3KeySensor` – Detect new files
+- `SparkSubmitOperator` – Trigger EMR Spark jobs
+- `PythonOperator` – Metric validation
+- Retry logic, SLA definition, email alerts
+
+### Scheduling
+- **Daily at 01:00 UTC**
+
+### Deliverables
+- ✔ Airflow DAG script
+- ✔ Task execution logs
+- ✔ Airflow UI screenshots
+
+---
+
+## 🟪 Sprint 5 – Business Insights & Visualization
+
+### Objectives
+Translate data into actionable business insights.
+
+### KPIs
+- Monthly revenue trends
+- Region-wise stock shortage indicators
+- Top 10 most profitable SKUs
+
+### Output Formats
+- JSON / CSV extracts
+- Optional dashboards using:
+- Amazon QuickSight
+- Apache Superset
+- Excel
+
+### Deliverables
+- ✔ KPI exports
+- ✔ Dashboard screenshots
+- ✔ Business insights documentation
+
+---
+
+## ✅ Final Sprint Review – Project Handoff Artifacts
+
+| Artifact | Description |
+|-------|-------------|
+| EMR Infra Proof | Logs, screenshots, VPC diagram |
+| PySpark Scripts | Ingestion, cleansing, aggregation |
+| Hive Schemas | Raw, staging, curated tables |
+| Airflow DAG | Fully parameterized batch pipeline |
+| KPI Outputs | CSV/JSON or visualization dashboards |
+| Agile Artifacts | Scrum board, burndown chart, retrospective |
+
+---
+
+## 🎯 Key Outcome
+A **production-grade, scalable retail inventory forecasting pipeline** leveraging Big Data best practices, Agile delivery, and cloud-native architecture.
+
+---
+
+> **Author:** Data Engineering Capstone  
+> **Tech Stack:** AWS EMR, PySpark, Hive, S3, Airflow  
+> **Methodology:** Agile Scrum
+
+---
